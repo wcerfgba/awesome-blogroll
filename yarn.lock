@@ -282,6 +282,10 @@ mime@1.4.1:
   version "1.4.1"
   resolved "https://registry.yarnpkg.com/mime/-/mime-1.4.1.tgz#121f9ebc49e3766f311a76e1fa1c8003c4b03aa6"
 
+moment@^2.18.1:
+  version "2.18.1"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.18.1.tgz#c36193dd3ce1c2eed2adb7c802dbbc77a81b1c0f"
+
 ms@2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/ms/-/ms-2.0.0.tgz#5608aeadfc00be6c2901df5f9861788de0d597c8"
@@ -420,12 +424,13 @@ string_decoder@~1.0.3:
   dependencies:
     safe-buffer "~5.1.0"
 
-syzygys@0.0.9:
-  version "0.0.9"
-  resolved "https://registry.yarnpkg.com/syzygys/-/syzygys-0.0.9.tgz#844f4bb3a3c8940239a08467f4de8a7e1d04d6ec"
+syzygys@0.0.10:
+  version "0.0.10"
+  resolved "https://registry.yarnpkg.com/syzygys/-/syzygys-0.0.10.tgz#1728d08f3597783d6e5f51a219927d6a872b13a6"
   dependencies:
     bluebird "^3.5.0"
     feedparser "^2.2.1"
+    moment "^2.18.1"
     mustache "^2.3.0"
     node-fetch "^1.7.3"
     sanitize-html "^1.14.1"

@@ -8,7 +8,7 @@
     <title>{{title}} | {{feed.name}}</title>
     <content type="html">{{summary}}</content>
     <link rel="alternate" href="{{{url}}}"/>
-    <pubDate>{{date}}</pubDate>
+    <published>{{date.toISOString}}</published>
   </entry>
   {{/feedItems}}
 </feed>
