@@ -10,7 +10,7 @@
   "author": "John L. Preston",
   "license": "MIT",
   "dependencies": {
-    "syzygys": "0.0.8"
+    "syzygys": "0.0.9"
   },
   "engines": {
     "node": "8.6.x"
