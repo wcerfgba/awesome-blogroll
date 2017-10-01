@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>awesome-blogroll</title>
+  <subtitle>An awesome list and aggregate feed of blogs from some of the best people, companies and communities in software.</subtitle>
+  <link href="https://wcerfgba.github.io/awesome-blogroll"/>
+  {{#feedItems}}
+  <entry>
+    <title>{{title}} | {{feed.name}}</title>
+    <content type="html">{{summary}}</content>
+    <link rel="alternate" href="{{{url}}}"/>
+    <pubDate>{{date}}</pubDate>
+  </entry>
+  {{/feedItems}}
+</feed>
