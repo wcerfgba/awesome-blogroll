@@ -38,7 +38,7 @@
 
 &lt;p&gt;The &lt;strong&gt;New York Chapter&lt;&#x2F;strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;www.twosigma.com&quot;&gt;TwoSigma&lt;&#x2F;a&gt;. Join us in St. Louis for &lt;a href&#x3D;&quot;http:&#x2F;&#x2F;pwlconf.org&#x2F;&quot;&gt;PWLConf 2017&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="http://papers-we-love.github.io/2017/news/october-meetups/"/>
-    <pubDate>Sun Oct 01 2017 12:00:32 GMT+0100 (BST)</pubDate>
+    <published>2017-10-01T11:00:32.000Z</published>
   </entry>
   <entry>
     <title>September Meetups | Papers We Love</title>
@@ -73,7 +73,7 @@
 
 &lt;p&gt;The &lt;strong&gt;New York Chapter&lt;&#x2F;strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;www.twosigma.com&quot;&gt;TwoSigma&lt;&#x2F;a&gt;. Join us in St. Louis for &lt;a href&#x3D;&quot;http:&#x2F;&#x2F;pwlconf.org&#x2F;&quot;&gt;PWLConf 2017&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="http://papers-we-love.github.io/2017/news/september-meetups/"/>
-    <pubDate>Sun Oct 01 2017 00:00:25 GMT+0100 (BST)</pubDate>
+    <published>2017-09-30T23:00:25.000Z</published>
   </entry>
   <entry>
     <title>Floating Point Benchmark: Prolog Language Added | Fourmilog - Fourmilab Change Log</title>
@@ -521,7 +521,7 @@ The relative performance of the various language implementations (with C taken a
 &lt;&#x2F;table&gt;
 &lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="http://www.fourmilab.ch/fourmilog/archives/2017-09/001714.html"/>
-    <pubDate>Fri Sep 29 2017 22:03:59 GMT+0100 (BST)</pubDate>
+    <published>2017-09-29T21:03:59.000Z</published>
   </entry>
   <entry>
     <title>Weekly update 54 | Troy Hunt</title>
@@ -537,13 +537,13 @@ References
 &lt;&#x2F;ol&gt;
 &lt;&#x2F;div&gt;</content>
     <link rel="alternate" href="http://feedproxy.google.com/~r/TroyHunt/~3/UJupDnFAk5c/"/>
-    <pubDate>Fri Sep 29 2017 07:59:44 GMT+0100 (BST)</pubDate>
+    <published>2017-09-29T06:59:44.000Z</published>
   </entry>
   <entry>
     <title>UX Conference Los Angeles Announced (Feb 25 - Mar 2) | Nielsen Norman Group</title>
     <content type="html">&lt;p&gt;In-depth, full-day courses, teaching user experience best practices for successful design. Conference focus on long-lasting skills for UX professionals. February 25 - March 2, 2018.&lt;&#x2F;p&gt;&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;&lt;a href&#x3D;&quot;&#x2F;training&#x2F;los-angeles&#x2F;&quot;&gt;See Full Schedule and Pricing&lt;&#x2F;a&gt;</content>
     <link rel="alternate" href="https://www.nngroup.com/training/los-angeles/"/>
-    <pubDate>Fri Sep 29 2017 04:23:00 GMT+0100 (BST)</pubDate>
+    <published>2017-09-29T03:23:00.000Z</published>
   </entry>
   <entry>
     <title>Michael Cohen (1992-2017) | Shtetl-Optimized</title>
@@ -558,7 +558,7 @@ References
 &lt;p&gt;I understand that memorial events are being planned at both MIT and Berkeley.  Feel free to share memories of Michael in the comments; see also &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;lucatrevisan.wordpress.com&#x2F;2017&#x2F;09&#x2F;26&#x2F;3915&#x2F;&quot;&gt;Luca’s post&lt;&#x2F;a&gt; and &lt;a href&#x3D;&quot;http:&#x2F;&#x2F;blog.computationalcomplexity.org&#x2F;2017&#x2F;09&#x2F;tragic-losses.html&quot;&gt;Lance’s post&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 &lt;p&gt;This is an unfathomable loss for Michael’s family, for his many friends and colleagues, and for a field that’s been robbed of decades of breakthroughs.&lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="https://www.scottaaronson.com/blog/?p=3468"/>
-    <pubDate>Fri Sep 29 2017 00:55:07 GMT+0100 (BST)</pubDate>
+    <published>2017-09-28T23:55:07.000Z</published>
   </entry>
   <entry>
     <title>Should You Build a Webhooks API? | Brandur Leach</title>
@@ -1029,7 +1029,7 @@ have a pretty clear path forward, and for those who aren’t,
 modeling something like a log over HTTP&#x2F;WebSockets&#x2F;SSE
 might be a good way to go.&lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="https://brandur.org/webhooks"/>
-    <pubDate>Thu Sep 28 2017 16:28:56 GMT+0100 (BST)</pubDate>
+    <published>2017-09-28T15:28:56.000Z</published>
   </entry>
   <entry>
     <title>How Important Are Qualifications to Modern Technology Jobs? | Troy Hunt</title>
@@ -1113,7 +1113,7 @@ Summary
 &lt;p&gt;The poll result didn&#39;t surprise me, but the replies to it are really interesting. As you&#39;d expect, there&#39;s lots of different backgrounds but the one piece of feedback that resonated consistently was how important experience is. It&#39;s like it&#39;s the great leveller in an industry that&#39;s heavily biased towards what you&#39;ve done rather than the papers you hold. Regardless of how you&#39;ve arrived in technology, I love that there are so many different paths here and frankly, that makes it all the more interesting.&lt;&#x2F;p&gt;
 &lt;&#x2F;div&gt;</content>
     <link rel="alternate" href="http://feedproxy.google.com/~r/TroyHunt/~3/H-W0Jm-KDQE/"/>
-    <pubDate>Thu Sep 28 2017 09:09:58 GMT+0100 (BST)</pubDate>
+    <published>2017-09-28T08:09:58.000Z</published>
   </entry>
   <entry>
     <title>ntpd won&#39;t save you from one particular rogue bit | rachelbythebay</title>
@@ -1296,7 +1296,7 @@ didn&#39;t know why it happened, or why it persisted.  Hopefully this helps.
 Time is hard.
 &lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="https://rachelbythebay.com/w/2017/09/27/2153/"/>
-    <pubDate>Thu Sep 28 2017 02:22:11 GMT+0100 (BST)</pubDate>
+    <published>2017-09-28T01:22:11.000Z</published>
   </entry>
   <entry>
     <title>Deliver software faster by managing work in progress, not by adding overtime | Soundcloud Developers Backstage Blog</title>
@@ -1596,8 +1596,8 @@ Preliminary results
 &lt;p&gt;SoundCloud’s amount of code inventory also remains a problem. Further reducing this number represents another big opportunity to reduce our lead and cycle times.&lt;&#x2F;p&gt;
 
 &lt;p&gt;This said, we’ve improved our product development flow a great deal. We&#39;re excited to learn more about our development cycle and to make future improvements.&lt;&#x2F;p&gt;</content>
-    <link rel="alternate" href="https://developers.soundcloud.com/blog/deliver-software-faster-by-managing-work-in-progress-not-by-adding-overtime"/>
-    <pubDate>Wed Sep 27 2017 01:00:00 GMT+0100 (BST)</pubDate>
+    <link rel="alternate" href="http://feedproxy.google.com/~r/soundcloudapiblog/~3/dtpiGKDfgiE/deliver-software-faster-by-managing-work-in-progress-not-by-adding-overtime.rss"/>
+    <published>2017-09-27T00:00:00.000Z</published>
   </entry>
   <entry>
     <title>Defining Aggregators | Stratechery</title>
@@ -1657,7 +1657,7 @@ Preliminary results
 &lt;p&gt;These are guidelines for regulation; determining specifics is an ongoing project for Stratechery, as are the definitions in this article.&lt;&#x2F;p&gt;
 &lt;ol&gt;&lt;li&gt;And yes, in the very long run, all fixed costs are marginal costs; that said, while the amount of capital costs for aggregators is massive, their userbase is so large that even over the long run the fixed costs per user are infinitesimal, particularly relative to revenue generated&lt;&#x2F;li&gt;&lt;li&gt;In terms of the marginal customer; in aggregate there are of course significant bandwidth costs, but see the previous footnote&lt;&#x2F;li&gt;&lt;li&gt;Credit card fees are a significant transaction cost that do limit some types of businesses, but will generally be ignored in this analysis&lt;&#x2F;li&gt;&lt;li&gt;Obviously bandwidth in the aggregate is a particularly large cost of Netflix&lt;&#x2F;li&gt;&lt;li&gt;In all cases, credit card fees excepted&lt;&#x2F;li&gt;&lt;&#x2F;ol&gt;</content>
     <link rel="alternate" href="https://stratechery.com/2017/defining-aggregators/"/>
-    <pubDate>Tue Sep 26 2017 15:27:17 GMT+0100 (BST)</pubDate>
+    <published>2017-09-26T14:27:17.000Z</published>
   </entry>
   <entry>
     <title>Books and Blogs | Stratechery</title>
@@ -1670,7 +1670,7 @@ Preliminary results
 &lt;p&gt;To that end, it is with relief I write the following article: &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;stratechery.com&#x2F;2017&#x2F;defining-aggregators&quot;&gt;Defining Aggregators&lt;&#x2F;a&gt;. I’ll be honest: it’s more for me than for you; my thinking has evolved, and clarified, and I want to link to something that represents my point of view in 2017, not just 2015. That I can do so by merely hitting ‘Publish’ is a great thing: these ideas are very much alive, and I don’t really see the point of trees that are dead, literally or virtually.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;em&gt;Note: This article is meant as an introduction to &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;stratechery.com&#x2F;2017&#x2F;defining-aggregators&quot;&gt;Defining Aggregators&lt;&#x2F;a&gt;; it is posted as a separate article as I plan to link to that article many times in the future&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="https://stratechery.com/2017/books-and-blogs/"/>
-    <pubDate>Tue Sep 26 2017 15:20:31 GMT+0100 (BST)</pubDate>
+    <published>2017-09-26T14:20:31.000Z</published>
   </entry>
   <entry>
     <title>A Brief History of Modularity | Pony Foo</title>
@@ -1723,13 +1723,13 @@ import(&#39;.&#x2F;mathlib&#39;).then(mathlib &#x3D;&amp;gt; {
 })
 &lt;&#x2F;code&gt;&lt;&#x2F;pre&gt; &lt;p&gt;In ESM, too, every file is a module with its own scope and context. One major advantage in ESM over CJS is how ESM has – and encourages – a way of statically importing dependencies. Static imports vastly improve the introspection capabilities of module systems, given they can be analyzed statically and lexically extracted from the abstract syntax tree (AST) of each module in the system. Static imports in ESM are constrained to the topmost level of a module, further simplifying parsing and introspection.&lt;&#x2F;p&gt; &lt;p&gt;In Node.js v8.5.0, ESM module support was introduced behind a flag. Most evergreen browsers also support ESM modules behind flags.&lt;&#x2F;p&gt; &lt;p&gt;Webpack is a successor to Browserify that largely took over in the role of universal module bundler thanks to a broader set of features. Just like in the case of Babel and ES6, Webpack has long supported ESM with both its &lt;code&gt;import&lt;&#x2F;code&gt; and &lt;code&gt;export&lt;&#x2F;code&gt; statements as well as the dynamic &lt;code&gt;import()&lt;&#x2F;code&gt; function. It has made a particularly fruitful adoption of ESM, in no little parts thanks to the introduction of a “code-splitting” mechanism whereby it’s able to partition an application into different bundles to improve performance on first load experiences.&lt;&#x2F;p&gt; &lt;p&gt;Given how ESM is native to the language, – as opposed to CJS – it can be expected to completely overtake the module ecosystem in a few years time.&lt;&#x2F;p&gt;&lt;&#x2F;div&gt;</content>
     <link rel="alternate" href="https://ponyfoo.com/articles/brief-history-of-modularity"/>
-    <pubDate>Tue Sep 26 2017 12:30:18 GMT+0100 (BST)</pubDate>
+    <published>2017-09-26T11:30:18.000Z</published>
   </entry>
   <entry>
     <title>Troubling Times | Ron Jeffries</title>
     <content type="html">Some random thoughts on the times we are living through.</content>
     <link rel="alternate" href="http://ronjeffries.com/articles/017-08ff/troubling-times/"/>
-    <pubDate>Tue Sep 26 2017 05:00:00 GMT+0100 (BST)</pubDate>
+    <published>2017-09-26T04:00:00.000Z</published>
   </entry>
   <entry>
     <title>An Unexpected Python ABI Change | Evan Klitzke</title>
@@ -1738,7 +1738,7 @@ issue&lt;&#x2F;a&gt; reporting that Pyflame didn’t
 work reliably with Python 3.6. Sometimes Pyflame would just print garbage output
 (e.g. bogus line numbers), a...</content>
     <link rel="alternate" href="https://eklitzke.org/an-unexpected-python-abi-change"/>
-    <pubDate>Tue Sep 26 2017 01:00:00 GMT+0100 (BST)</pubDate>
+    <published>2017-09-26T00:00:00.000Z</published>
   </entry>
   <entry>
     <title>The Ethics of Running a Data Breach Search Service | Troy Hunt</title>
@@ -1805,19 +1805,19 @@ Summary
 &lt;p&gt;I&#39;ll close this post out by saying that there will almost certainly be changes to this in the future. Indeed, it&#39;s constantly changed already; sensitive breaches, rate limits and &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;www.troyhunt.com&#x2F;pastes-on-have-i-been-pwned-are-no-longer-publicly-listed&#x2F;&quot;&gt;the removal of the pastes listing&lt;&#x2F;a&gt; are all examples of where I&#39;ve stepped back, looked at the system and thought &amp;quot;this needs to be done better&amp;quot;. Very often, that decision has come from community feedback and I&#39;d like to welcome more of that in the comments below. Thank you for reading.&lt;&#x2F;p&gt;
 &lt;&#x2F;div&gt;</content>
     <link rel="alternate" href="http://feedproxy.google.com/~r/TroyHunt/~3/JO9jZ_2mbRc/"/>
-    <pubDate>Mon Sep 25 2017 08:44:35 GMT+0100 (BST)</pubDate>
+    <published>2017-09-25T07:44:35.000Z</published>
   </entry>
   <entry>
     <title>5 Strategies for Presenting UX Remotely | Nielsen Norman Group</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;Summary:&lt;&#x2F;strong&gt; Master remote presentations by creating the right environment, being human, reducing distractions, taking control, and telling a story.&lt;&#x2F;p&gt;&lt;hr &#x2F;&gt;&lt;br &#x2F;&gt;&lt;p&gt; There’s nothing like being face-to-face when giving an important presentation. You naturally take cues from the others in the room: eye contact, body language, and facial expressions.&lt;&#x2F;p&gt;&lt;p&gt; However, presenting in person isn’t always an option. 80% of corporate presentations are being delivered remotely. In these cases, making a virtual connection with your audience is key, especially when presenting UX designs. The most articulate person always wins; the more successfully we communicate, the higher the chance that our designs become reality. Use the tips below to resonate with your audience, even while presenting remotely.&lt;&#x2F;p&gt; 1. Create a Presentation-Ready Environment&lt;p&gt; Nothing screams ‘webinar’ like a pixelated image of someone’s face and poor audio quality. Break out of the mold and use what you can to create a presentation-like atmosphere.&lt;&#x2F;p&gt;&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;&lt;a href&#x3D;&quot;&#x2F;articles&#x2F;presenting-remotely&#x2F;&quot;&gt;Read Full Article&lt;&#x2F;a&gt;</content>
     <link rel="alternate" href="https://www.nngroup.com/articles/presenting-remotely/"/>
-    <pubDate>Sun Sep 24 2017 17:00:00 GMT+0100 (BST)</pubDate>
+    <published>2017-09-24T16:00:00.000Z</published>
   </entry>
   <entry>
     <title>Agile Is not Easy for UX: (How to) Deal with It | Nielsen Norman Group</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;Summary:&lt;&#x2F;strong&gt; Agile and UX work well together when management values UX, UX practitioners show leadership, the process isn’t strict, and UX is embedded on teams.&lt;&#x2F;p&gt;&lt;hr &#x2F;&gt;&lt;br &#x2F;&gt; Introduction&lt;p&gt; Agile has taken over the software-development world. In recent years, it’s become &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;www.nngroup.com&#x2F;articles&#x2F;state-ux-agile-development&#x2F;&quot;&gt;  the most popular software-development methodology &lt;&#x2F;a&gt; . Agile development has a lot of benefits: an incremental approach, the ability to change direction based on customer and stakeholder feedback, short timeframes that keep the teams focused.&lt;&#x2F;p&gt;&lt;p&gt; However, Agile methodologies are focused on developers. They grew out of programmers’ attempts to solve common pain points experienced during big software development projects. Notoriously, the &lt;em&gt;  Agile Manifesto &lt;&#x2F;em&gt; (still the primary document delineating Agile principles) did not include UX people, nor did it account for the time, resources, and research that UX professionals need in order to create excellent designs.&lt;&#x2F;p&gt;&lt;p&gt; Under an Agile paradigm, the entire team works on the same elements of a project simultaneously in order to avoid “throwing it over the wall” (i.e. hand it off  from one team to another, waterfall-style). The work is done in “sprints” — commonly 2-week periods when the team focuses on certain features, and then moves on. As a result, designers are under enormous pressure to create, test, refine, and deliver their output unrealistically fast, and with little of the context and big-picture thinking that suits consistent, user-centered designs.&lt;&#x2F;p&gt;&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;&lt;a href&#x3D;&quot;&#x2F;articles&#x2F;agile-not-easy-ux&#x2F;&quot;&gt;Read Full Article&lt;&#x2F;a&gt;</content>
     <link rel="alternate" href="https://www.nngroup.com/articles/agile-not-easy-ux/"/>
-    <pubDate>Sun Sep 24 2017 17:00:00 GMT+0100 (BST)</pubDate>
+    <published>2017-09-24T16:00:00.000Z</published>
   </entry>
   <entry>
     <title>Floating Point Benchmark: PL&#x2F;I Language Added | Fourmilog - Fourmilab Change Log</title>
@@ -2305,7 +2305,7 @@ The relative performance of the various language implementations (with C taken a
 &lt;&#x2F;table&gt;
 &lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="http://www.fourmilab.ch/fourmilog/archives/2017-09/001713.html"/>
-    <pubDate>Sun Sep 24 2017 16:06:37 GMT+0100 (BST)</pubDate>
+    <published>2017-09-24T15:06:37.000Z</published>
   </entry>
   <entry>
     <title>Profiling Go programs with pprof | Julia Evans</title>
@@ -2663,7 +2663,7 @@ so I’m very excited for that to be available.&lt;&#x2F;p&gt;
 
 &lt;p&gt;If I got someting wrong (I probably did) let me know!!&lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="https://jvns.ca/blog/2017/09/24/profiling-go-with-pprof/"/>
-    <pubDate>Sun Sep 24 2017 10:43:36 GMT+0100 (BST)</pubDate>
+    <published>2017-09-24T09:43:36.000Z</published>
   </entry>
   <entry>
     <title>Weekly update 53 (Salt Lake City edition) | Troy Hunt</title>
@@ -2680,19 +2680,19 @@ References
 &lt;&#x2F;ol&gt;
 &lt;&#x2F;div&gt;</content>
     <link rel="alternate" href="http://feedproxy.google.com/~r/TroyHunt/~3/uFrVBRWygNM/"/>
-    <pubDate>Sat Sep 23 2017 05:45:27 GMT+0100 (BST)</pubDate>
+    <published>2017-09-23T04:45:27.000Z</published>
   </entry>
   <entry>
     <title>Progressive Web Apps? No, we are building Alien Web Apps | Condé Nast Technology</title>
     <content type="html">Progressive Web Apps? No, we are building Alien Web Apps</content>
     <link rel="alternate" href="https://technology.condenast.com/story/not-progressive-alien-web-apps"/>
-    <pubDate>Thu Sep 21 2017 17:00:11 GMT+0100 (BST)</pubDate>
+    <published>2017-09-21T16:00:11.000Z</published>
   </entry>
   <entry>
     <title>Two week hiatus for reasons. I do a bit of planning, but no work. | Ron Jeffries</title>
     <content type="html">Just a bit of reflection after two weeks off. Next week, I hope we&#39;ll actually do something. Today I remember the Boy Scout Refactoring Rule.</content>
     <link rel="alternate" href="http://ronjeffries.com/articles/017-08ff/ipad-m-two-weeks/"/>
-    <pubDate>Thu Sep 21 2017 05:00:00 GMT+0100 (BST)</pubDate>
+    <published>2017-09-21T04:00:00.000Z</published>
   </entry>
   <entry>
     <title>How to answer questions in a helpful way | Julia Evans</title>
@@ -2902,13 +2902,13 @@ and teach people can be really rewarding.&lt;&#x2F;p&gt;
 Special thanks to Josh Triplett for suggesting this post and making many helpful additions, and to Harold Treen, Vaibhav Sagar, Peter Bhat Harkins, Wesley Aptekar-Cassels, and Paul Gowder for reading&#x2F;commenting.
 &lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="https://jvns.ca/blog/answer-questions-well/"/>
-    <pubDate>Thu Sep 21 2017 02:37:48 GMT+0100 (BST)</pubDate>
+    <published>2017-09-21T01:37:48.000Z</published>
   </entry>
   <entry>
     <title>Absolute must-read | Preston Byrne</title>
     <content type="html">Ray Dillinger, early Bitcoin code auditor, writes in LinkedIn about his view of the ICO phenomenon: …the Trustless nature of Bitcoin was the main thing that convinced me Satoshi wasn’t scamming. He built a highway with no toll bridge. People could use Bitcoin without creating any obligation to pay him anything ever. He wasn’t selling coins, he was giving them away for solving hashes. He reserved nothing for himself.   He wasn’t trying to line his own pockets at the expense of others. In fact I don’t think I’ve ever encountered someone so completely uninterested in personal wealth. You know...</content>
     <link rel="alternate" href="https://prestonbyrne.com/2017/09/20/absolute-must-read/"/>
-    <pubDate>Wed Sep 20 2017 16:43:19 GMT+0100 (BST)</pubDate>
+    <published>2017-09-20T15:43:19.000Z</published>
   </entry>
   <entry>
     <title>How I Make Explorable Explanations | Nicky Case</title>
@@ -3006,7 +3006,7 @@ Man got to tell himself he understand.”&lt;&#x2F;em&gt;
 ~ Kurt Vonnegut
 &lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="http://blog.ncase.me/how-i-make-an-explorable-explanation/"/>
-    <pubDate>Wed Sep 20 2017 16:40:42 GMT+0100 (BST)</pubDate>
+    <published>2017-09-20T15:40:42.000Z</published>
   </entry>
   <entry>
     <title>Transactionally Staged Job Drains in Postgres | Brandur Leach</title>
@@ -3194,7 +3194,7 @@ selecting primed jobs in bulk and feeding them into another
 store like Redis that’s better-suited for distributing jobs
 to competing workers.&lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="https://brandur.org/job-drain"/>
-    <pubDate>Wed Sep 20 2017 15:58:14 GMT+0100 (BST)</pubDate>
+    <published>2017-09-20T14:58:14.000Z</published>
   </entry>
   <entry>
     <title>Framework Seams | 8th Light Blog</title>
@@ -3409,7 +3409,7 @@ Of course there are certain rules to follow, but when a code example includes so
 I recommend thinking carefully about whether you want your code to stay in that framework-defined location, or if you&#39;d rather treat the seam as the entrypoint to an entirely separate world of your own.
 The decision is yours!&lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="https://8thlight.com/blog/mike-knepper/2017/09/20/framework-seams.html"/>
-    <pubDate>Wed Sep 20 2017 06:00:00 GMT+0100 (BST)</pubDate>
+    <published>2017-09-20T05:00:00.000Z</published>
   </entry>
   <entry>
     <title>UNUM Updated to Unicode 10, HTML5 | Fourmilog - Fourmilab Change Log</title>
@@ -3443,7 +3443,7 @@ The addition of the CJK characters makes the code point definition table, which 
 
 &lt;b&gt;Update:&lt;&#x2F;b&gt; Version 2.2 improves compatibility of the compressed version of the utility by automatically falling back to Perl&#39;s core IO::Uncompress::Bunzip2 module if the host system does not have &lt;b&gt;bunzip2&lt;&#x2F;b&gt; installed.  (2017-09-19 18:47 UTC)&lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="http://www.fourmilab.ch/fourmilog/archives/2017-09/001711.html"/>
-    <pubDate>Tue Sep 19 2017 19:49:06 GMT+0100 (BST)</pubDate>
+    <published>2017-09-19T18:49:06.000Z</published>
   </entry>
   <entry>
     <title>Myths about Unit Tests | 8th Light Blog</title>
@@ -3559,7 +3559,7 @@ feature if we consider our unit tests as an optional extra. Underestimating the 
 &lt;p&gt;The test is part of feature, therefore should be considered upfront during the
 estimation of any new tasks.&lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="https://8thlight.com/blog/fabien-townsend/2017/09/19/myths-about-unit-tests.html"/>
-    <pubDate>Tue Sep 19 2017 06:00:00 GMT+0100 (BST)</pubDate>
+    <published>2017-09-19T05:00:00.000Z</published>
   </entry>
   <entry>
     <title>DRM will unravel the Web | DustyCloud</title>
@@ -3731,7 +3731,7 @@ an uphill battle.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;EDIT:&lt;&#x2F;strong&gt; If you haven&#39;t yet read Cory Doctorow &#x2F; the EFF&#39;s
 &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;www.eff.org&#x2F;deeplinks&#x2F;2017&#x2F;09&#x2F;open-letter-w3c-director-ceo-team-and-membership&quot;&gt;open letter to the W3C&lt;&#x2F;a&gt;, you should.&lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="http://dustycloud.org/blog/drm-will-unravel-the-web/"/>
-    <pubDate>Mon Sep 18 2017 20:30:00 GMT+0100 (BST)</pubDate>
+    <published>2017-09-18T19:30:00.000Z</published>
   </entry>
   <entry>
     <title>The Super-Aggregators and the Russians | Stratechery</title>
@@ -3807,7 +3807,7 @@ an uphill battle.&lt;&#x2F;p&gt;
 &lt;p&gt;This is the reality of regulation: as much as the largest incumbents may moan and groan, they are, in nearly all cases, the biggest beneficiaries. To be sure, that doesn’t mean regulation isn’t appropriate — it should be far more obvious to everyone that Russians were purchasing election-related ads on Facebook — but rather that it be expressly designed to limit the worst abuses and enable meaningful competitors, even if they accept payment in Russian Rubles.&lt;&#x2F;p&gt;
 &lt;ol&gt;&lt;li&gt;For what it’s worth, Stratechery has never actually taken out a Facebook ad, or any ad for that matter&lt;&#x2F;li&gt;&lt;li&gt;Yes, I’m writing about Aggregation Theory again; I explain why I do so often &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;stratechery.com&#x2F;2017&#x2F;the-platform-paradox-voice-assistants-vulnerable-facebook-and-russian-ads&#x2F;&quot;&gt;here&lt;&#x2F;a&gt; &lt;&#x2F;li&gt;&lt;li&gt;Presuming his tweet was not as cynical as it very well might have been&lt;&#x2F;li&gt;&lt;&#x2F;ol&gt;</content>
     <link rel="alternate" href="https://stratechery.com/2017/the-super-aggregators-and-the-russians/"/>
-    <pubDate>Mon Sep 18 2017 13:56:58 GMT+0100 (BST)</pubDate>
+    <published>2017-09-18T12:56:58.000Z</published>
   </entry>
   <entry>
     <title>Join our startup, we&#39;ll cut your pay by 40%! | Code Without Rules</title>
@@ -3930,7 +3930,7 @@ So here’s my advice to all you junior engineers out there: avoid companies tha
 
 &lt;p&gt;And if you are stuck working for such a company, you might want to read my book, &lt;em&gt;&lt;a href&#x3D;&quot;&#x2F;saneworkweek&#x2F;&quot;&gt;The Programmer’s Guide to a Sane Workweek&lt;&#x2F;a&gt;&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="https://codewithoutrules.com/2017/09/18/when-startups-pay-less/"/>
-    <pubDate>Mon Sep 18 2017 05:00:00 GMT+0100 (BST)</pubDate>
+    <published>2017-09-18T04:00:00.000Z</published>
   </entry>
   <entry>
     <title>Resurrecting the SRAM Automatix | Evan Klitzke</title>
@@ -3939,19 +3939,19 @@ bicycle&lt;&#x2F;a&gt;. I’ve owned a lot of bikes, but this
 particular bike has a special place in my heart. It’s the bike I’ve had the most
 fun riding, and the ...</content>
     <link rel="alternate" href="https://eklitzke.org/resurrecting-the-sram-automatix"/>
-    <pubDate>Mon Sep 18 2017 01:00:00 GMT+0100 (BST)</pubDate>
-  </entry>
-  <entry>
-    <title>Mobile Tables: Comparisons and Other Data Tables | Nielsen Norman Group</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Summary:&lt;&#x2F;strong&gt; Locking headers and allowing users to select a subset of data according to their needs make large data tables usable on mobile devices. &lt;&#x2F;p&gt;&lt;hr &#x2F;&gt;&lt;br &#x2F;&gt;&lt;p&gt; Displaying big data on a small screen is a daunting challenge. How do we make a large amount of data fit on a small screen? Other than limiting the number of rows or columns of data, what other options are available to display tables on small screens? What does a usable table look like on mobile?&lt;&#x2F;p&gt;&lt;p&gt; (The general problem of having more data than fits on the screen is not specific to mobile: information-visualization researchers have struggled for years with the topic of showing data that has more columns (or rows) that can fit on the user’s screen — be it a large monitor, an array of monitors, or a small mobile display. However, &lt;strong&gt;  the smaller the screen, the more likely that we’ll get into trouble &lt;&#x2F;strong&gt; with any given dataset and will need to design carefully to minimize usability problems.)&lt;&#x2F;p&gt;&lt;p&gt; In our article on &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;www.nngroup.com&#x2F;articles&#x2F;comparison-tables&#x2F;&quot;&gt;  comparison tables &lt;&#x2F;a&gt; , we covered key elements in presenting data, such as the need for &lt;strong&gt;  consistency of content &lt;&#x2F;strong&gt; and &lt;strong&gt;  presenting meaningful attributes &lt;&#x2F;strong&gt; to users. Both are equally, if not even more important for mobile tables, due to the small amount of data visible at one time. You must &lt;strong&gt;  first create a usable table for a large screen &lt;&#x2F;strong&gt; before translating it to a small one. The need to make a table work on a smaller screen may be a good reason, excuse, or impetus to reevaluate the content and attributes in your table, regardless of screen size, and to improve content for all users.&lt;&#x2F;p&gt;&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;&lt;a href&#x3D;&quot;&#x2F;articles&#x2F;mobile-tables&#x2F;&quot;&gt;Read Full Article&lt;&#x2F;a&gt;</content>
-    <link rel="alternate" href="https://www.nngroup.com/articles/mobile-tables/"/>
-    <pubDate>Sun Sep 17 2017 17:00:00 GMT+0100 (BST)</pubDate>
+    <published>2017-09-18T00:00:00.000Z</published>
   </entry>
   <entry>
     <title>From Research Goals to Usability-Testing Scenarios: A 7-Step Method | Nielsen Norman Group</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;Summary:&lt;&#x2F;strong&gt; Developing goals for a usability study, deciding what to test, and crafting user scenarios can be challenging. This method makes the process straightforward.&lt;&#x2F;p&gt;&lt;hr &#x2F;&gt;&lt;br &#x2F;&gt;&lt;p&gt; For some usability studies, there may be an obvious and limited set of interface elements that should be tested. In many cases, however, the system is complex, new to the researcher, or the list of candidate features for testing is long. This article shows a 7-step method that helps everyone focus on the most important elements to test first, while also prioritizing everything of concern for later research.&lt;&#x2F;p&gt; The 7 Steps&lt;p&gt; Our &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;www.nngroup.com&#x2F;articles&#x2F;usability-test-checklist&#x2F;&quot;&gt;  checklist for planning usability studies &lt;&#x2F;a&gt; describes the larger process.&lt;&#x2F;p&gt;&lt;p&gt; It’s important to involve stakeholders in these planning steps. After conducting user studies, researchers can sometimes encounter resistance to the findings: someone says the researcher &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;www.nngroup.com&#x2F;articles&#x2F;recruiting-test-participants-for-usability-studies&#x2F;&quot;&gt;  recruited the wrong participants &lt;&#x2F;a&gt; or tested the wrong elements. Going through part of the test-planning process as a team ensures that everyone understands and supports the research goals, priorities, and methods.&lt;&#x2F;p&gt;&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;&lt;a href&#x3D;&quot;&#x2F;articles&#x2F;ux-research-goals-to-scenarios&#x2F;&quot;&gt;Read Full Article&lt;&#x2F;a&gt;</content>
     <link rel="alternate" href="https://www.nngroup.com/articles/ux-research-goals-to-scenarios/"/>
-    <pubDate>Sun Sep 17 2017 17:00:00 GMT+0100 (BST)</pubDate>
+    <published>2017-09-17T16:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title>Mobile Tables: Comparisons and Other Data Tables | Nielsen Norman Group</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Summary:&lt;&#x2F;strong&gt; Locking headers and allowing users to select a subset of data according to their needs make large data tables usable on mobile devices. &lt;&#x2F;p&gt;&lt;hr &#x2F;&gt;&lt;br &#x2F;&gt;&lt;p&gt; Displaying big data on a small screen is a daunting challenge. How do we make a large amount of data fit on a small screen? Other than limiting the number of rows or columns of data, what other options are available to display tables on small screens? What does a usable table look like on mobile?&lt;&#x2F;p&gt;&lt;p&gt; (The general problem of having more data than fits on the screen is not specific to mobile: information-visualization researchers have struggled for years with the topic of showing data that has more columns (or rows) that can fit on the user’s screen — be it a large monitor, an array of monitors, or a small mobile display. However, &lt;strong&gt;  the smaller the screen, the more likely that we’ll get into trouble &lt;&#x2F;strong&gt; with any given dataset and will need to design carefully to minimize usability problems.)&lt;&#x2F;p&gt;&lt;p&gt; In our article on &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;www.nngroup.com&#x2F;articles&#x2F;comparison-tables&#x2F;&quot;&gt;  comparison tables &lt;&#x2F;a&gt; , we covered key elements in presenting data, such as the need for &lt;strong&gt;  consistency of content &lt;&#x2F;strong&gt; and &lt;strong&gt;  presenting meaningful attributes &lt;&#x2F;strong&gt; to users. Both are equally, if not even more important for mobile tables, due to the small amount of data visible at one time. You must &lt;strong&gt;  first create a usable table for a large screen &lt;&#x2F;strong&gt; before translating it to a small one. The need to make a table work on a smaller screen may be a good reason, excuse, or impetus to reevaluate the content and attributes in your table, regardless of screen size, and to improve content for all users.&lt;&#x2F;p&gt;&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;&lt;a href&#x3D;&quot;&#x2F;articles&#x2F;mobile-tables&#x2F;&quot;&gt;Read Full Article&lt;&#x2F;a&gt;</content>
+    <link rel="alternate" href="https://www.nngroup.com/articles/mobile-tables/"/>
+    <published>2017-09-17T16:00:00.000Z</published>
   </entry>
   <entry>
     <title>How I spent my time at the Recurse Center | Julia Evans</title>
@@ -4058,7 +4058,7 @@ have thought to ask about (strace! netcat! system calls!)&lt;&#x2F;li&gt;
 &lt;li&gt;writing about what I’m learning is really fun&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;</content>
     <link rel="alternate" href="https://jvns.ca/blog/2017/09/17/how-i-spent-my-time-at-the-recurse-center/"/>
-    <pubDate>Sun Sep 17 2017 13:43:22 GMT+0100 (BST)</pubDate>
+    <published>2017-09-17T12:43:22.000Z</published>
   </entry>
   <entry>
     <title>Announcing Point-Free | Few, but ripe...</title>
@@ -4099,13 +4099,13 @@ have thought to ask about (strace! netcat! system calls!)&lt;&#x2F;li&gt;
 
 &lt;p&gt;Also, if any of this interests you and you want to collaborate on some work together, I’m available &lt;a href&#x3D;&quot;http:&#x2F;&#x2F;fewbutripe.com&#x2F;hire-me&#x2F;&quot;&gt;for hire&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="http://www.fewbutripe.com/swift/functional/programming/2017/09/17/announcing-point-free.html"/>
-    <pubDate>Sun Sep 17 2017 01:00:00 GMT+0100 (BST)</pubDate>
+    <published>2017-09-17T00:00:00.000Z</published>
   </entry>
   <entry>
     <title>A Tiny Story about Systems Complexity | Pony Foo</title>
     <content type="html">&lt;div&gt;&lt;p&gt;A human decides to open a new tab in their favorite web browser and they then google for &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;www.google.com&#x2F;search?q&#x3D;cat+in+a+pickle+gifs&amp;amp;tbm&#x3D;isch&quot; target&#x3D;&quot;_blank&quot;&gt;&lt;em&gt;“cat in a pickle gifs”&lt;&#x2F;em&gt;&lt;&#x2F;a&gt;. What happens next will shock you!&lt;&#x2F;p&gt;&lt;p&gt;The browser allocates a new process through a system call to the operating system, which shifts some bits around on the physical hardware that lies inside the human’s computer. Before the HTTP request hits the network, we need to hit DNS servers, engaging in the elaborate process of casting &lt;code&gt;google.com&lt;&#x2F;code&gt; into an IP address. The browser then checks whether there’s a ServiceWorker installed, and assuming there isn’t one the request finally takes the default route of querying Google’s servers for the phrase &lt;em&gt;“cat in a pickle gifs”&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt; &lt;p&gt;Naturally, Google receives this request at one of the front-end edges of its public network, in charge of balancing the load and routing requests to healthy back-end services. The query goes through a variety of analyzers that attempt to break it down to its semantic roots, stripping the query down to its essential keywords in an attempt to better match relevant results.&lt;&#x2F;p&gt; &lt;p&gt;The search engine figures out the 10 most relevant results for &lt;em&gt;“cat pickle gif”&lt;&#x2F;em&gt; out of billions of pages in its index – which was of course primed by a different system that’s also part of the whole – and at the same time, Google pulls down a highly targeted piece of relevant advertisement about &lt;em&gt;cat gifs&lt;&#x2F;em&gt; that matches what they believe is the demographic the human making the query belongs to, thanks to a sophisticated ad network, figures out whether the user is authenticated with Google through an HTTP header session cookie and the search results page starts being constructed and streamed to the human, who now appears impatient and fidgety.&lt;&#x2F;p&gt;&lt;p&gt;As the first few bits of HTML being streaming down the wire, the search engine produces its results and hands them back to the front-end servers, which includes it in the HTML stream that’s sent back to the human. The web browser has been working hard at this too, parsing the incomplete pieces of HTML that have been streaming down the wire as best it could, even daring to launch other admirably and equally-mind-boggling requests for HTTP resources presumed to be JavaScript, CSS, font, and image files as the HTML continues to stream down the wire. The first few chunks of HTML are converted into a DOM tree, and the browser would finally be able to begin rendering bits and pieces of the page on the screen, if it weren’t because it’s still waiting on those equally-mind-boggling CSS and font requests.&lt;&#x2F;p&gt; &lt;p&gt;As the CSS stylesheets and fonts are transmitted, the browser begins modeling the CSSOM and getting a more complete picture of how to turn the HTML and CSS plain text chunks provided by Google servers into a graphical representation that the human finds pleasant. Browser extensions get a chance to meddle with the content, removing the highly targeted piece of relevant advertisement about cat gifs before I even realize Google hoped I wouldn’t block ads this time around.&lt;&#x2F;p&gt; &lt;p&gt;A few seconds have passed by since I first decided to search for &lt;em&gt;cat in a pickle gifs&lt;&#x2F;em&gt;. Needless to say, thousands of others brought similarly inane requests. To the same systems. During this time.&lt;&#x2F;p&gt; &lt;p&gt;Not only does this example demonstrate the marvelous machinery and infrastructure that fuels even our most flippant daily computing experiences, but it also illustrates how abundantly hopeless it is to make sense of a system as a whole, let alone its comprehensive state at any given point in time. After all, where do we draw the boundaries? Within the code we wrote? The code that powers our customer’s computers? Their hardware? The code that powers our servers? Its hardware? The internet as a whole? The power grid?&lt;&#x2F;p&gt; &lt;p&gt;The overall state of a system has little to do with our ability to comprehend parts of that same system. Our focus in reducing state-based entropy must then lie in the individual aspects of the system. It’s for this reason that breaking apart large pieces of code is so effective. We’re reducing the amount of state local to each given aspect of the system, and that’s the kind of state that’s worth taking care of, since it’s what we can keep in our heads and make sense of.&lt;&#x2F;p&gt;&lt;&#x2F;div&gt;</content>
     <link rel="alternate" href="https://ponyfoo.com/articles/tiny-story-about-complexity"/>
-    <pubDate>Sun Sep 17 2017 00:10:01 GMT+0100 (BST)</pubDate>
+    <published>2017-09-16T23:10:01.000Z</published>
   </entry>
   <entry>
     <title>Tom Swift and His Electric Runabout updated, EPUB added | Fourmilog - Fourmilab Change Log</title>
@@ -4123,7 +4123,7 @@ Tom Swift&#39;s electric car, described in this 1910 novel, compares quite favou
 
 In 1910, &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Interurban&quot; target&#x3D;&quot;Fourmilog_Aux&quot;&gt;interurban trolley&lt;&#x2F;a&gt; lines were ubiquitous in the eastern United States, so the intrepid motorist, seeing the charge gauge creeping down toward zero, need only divert to the nearest trolley line, hook up to the rail and overhead wire or third rail, and before long everything would be just tickey-boo.  No thief, the young Swift remarks, “ ‘I&#39;m going to pay for the current I use,’ explained the young inventor.  ‘I have a meter which tells how much I take.’ ”&lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="http://www.fourmilab.ch/fourmilog/archives/2017-09/001712.html"/>
-    <pubDate>Sat Sep 16 2017 00:34:41 GMT+0100 (BST)</pubDate>
+    <published>2017-09-15T23:34:41.000Z</published>
   </entry>
   <entry>
     <title>Wes Chow on Off-the-Record Communication, or, Why Not To Use PGP | Papers We Love</title>
@@ -4168,7 +4168,7 @@ New York - July 19, 2017
 
 &lt;hr &#x2F;&gt;</content>
     <link rel="alternate" href="http://papers-we-love.github.io/2017/video/wes-chow-off-the-record-communication/"/>
-    <pubDate>Fri Sep 15 2017 18:00:09 GMT+0100 (BST)</pubDate>
+    <published>2017-09-15T17:00:09.000Z</published>
   </entry>
   <entry>
     <title>Weekly update 52 | Troy Hunt</title>
@@ -4184,7 +4184,7 @@ References
 &lt;&#x2F;ol&gt;
 &lt;&#x2F;div&gt;</content>
     <link rel="alternate" href="http://feedproxy.google.com/~r/TroyHunt/~3/J7KGW08UEPY/"/>
-    <pubDate>Fri Sep 15 2017 08:44:40 GMT+0100 (BST)</pubDate>
+    <published>2017-09-15T07:44:40.000Z</published>
   </entry>
   <entry>
     <title>AWS Do&#39;s and Don&#39;ts | 8th Light Blog</title>
@@ -4236,20 +4236,20 @@ References
 
 &lt;p&gt;AWS has so much potential to change a business. But it doesn&#39;t just come on a silver platter named Elastic Compute Cloud. You have to &lt;em&gt;work&lt;&#x2F;em&gt; to integrate it into your app ecosphere. Only then can you really be in the cloud.&lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="https://8thlight.com/blog/sarah-sunday/2017/09/15/aws-dos-and-donts.html"/>
-    <pubDate>Fri Sep 15 2017 06:00:00 GMT+0100 (BST)</pubDate>
+    <published>2017-09-15T05:00:00.000Z</published>
   </entry>
   <entry>
     <title>Prog Rock Friday | Preston Byrne</title>
     <content type="html">There is an inexpressibly sad story re: the prog rock mega-group Yes in the news this week. I won’t go into here, save to say it prompted me to look back at Steve Howe’s guitar work for adolescent Yes in the 1970s. Please find below a track from Yessongs, Yes’ first live album, released in 1973 (although recorded in 1972). The song is Yours is No Disgrace (from the Yes Album). I also include a video recording of the group performing the same song for your viewing enjoyment. What we hear and see is Howe just beginning to wield the full might...</content>
     <link rel="alternate" href="https://prestonbyrne.com/2017/09/14/prog-rock-friday/"/>
-    <pubDate>Fri Sep 15 2017 05:16:33 GMT+0100 (BST)</pubDate>
+    <published>2017-09-15T04:16:33.000Z</published>
   </entry>
   <entry>
     <title>Is there any value in people who cannot write JavaScript? | Brad Frost</title>
     <content type="html">&lt;p&gt;This is a great post from Mandy Michael, and touches on some of the things I talked about in my post about &lt;a href&#x3D;&quot;http:&#x2F;&#x2F;bradfrost.com&#x2F;blog&#x2F;post&#x2F;full-stack-developers&#x2F;&quot;&gt;full-stack developers&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 &lt;blockquote&gt;&lt;p&gt;What I am very concerned about is that many still don’t see value in being skilled in CSS &amp;amp; HTML. This attitude is something I just don’t understand. All of us working together provide value in our industry. HTML &amp;amp; CSS are very important pieces of this puzzle, and I (perhaps naively) thought we had evolved to a point where we were starting to appreciate the challenges each of us face in our different areas of expertise. I guess I was wrong because this attitude is still clearly still prevalent.&lt;&#x2F;p&gt;&lt;&#x2F;blockquote&gt;</content>
     <link rel="alternate" href="http://bradfrost.com/blog/link/is-there-any-value-in-people-who-cannot-write-javascript/"/>
-    <pubDate>Thu Sep 14 2017 22:02:09 GMT+0100 (BST)</pubDate>
+    <published>2017-09-14T21:02:09.000Z</published>
   </entry>
   <entry>
     <title>My Big Numbers talk at Festivaletteratura | Shtetl-Optimized</title>
@@ -4399,7 +4399,7 @@ Sept. 9, 2017&lt;&#x2F;p&gt;
 &lt;p&gt;In the meantime, our universe seems to limit us to at most 10122 choices that could ever be made, or experiences that could ever be had, by any one observer.  Or fewer, if you believe that you won’t live until the heat death of the universe in some post-Singularity computer cloud, but for at most about 102 years.  In the meantime, the survival of the human race might hinge on people’s ability to understand much smaller numbers than 10122: for example, a billion, a trillion, and other numbers that characterize the exponential growth of our civilization and the limits that we’re now running up against.&lt;&#x2F;p&gt;
 &lt;p&gt;On a happier note, though, if our goal is to make math engaging to young people, or to build bridges between the quantitative and literary worlds, the way this festival is doing, it seems to me that it wouldn’t hurt to let people know about the vastness that’s out there.  Thanks for your attention.&lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="https://www.scottaaronson.com/blog/?p=3445"/>
-    <pubDate>Thu Sep 14 2017 11:11:14 GMT+0100 (BST)</pubDate>
+    <published>2017-09-14T10:11:14.000Z</published>
   </entry>
   <entry>
     <title>Face ID, Touch ID, No ID, PINs and Pragmatic Security | Troy Hunt</title>
@@ -4499,7 +4499,7 @@ Summary
 &lt;p&gt;I&#39;ve shared these here because they&#39;re enormously important with regards to the narrative about the frequency with which people unlock their devices and the value proposition of reducing friction. The numbers speak for themselves.&lt;&#x2F;p&gt;
 &lt;&#x2F;div&gt;</content>
     <link rel="alternate" href="http://feedproxy.google.com/~r/TroyHunt/~3/IHrHVlwNwRg/"/>
-    <pubDate>Thu Sep 14 2017 09:45:41 GMT+0100 (BST)</pubDate>
+    <published>2017-09-14T08:45:41.000Z</published>
   </entry>
   <entry>
     <title>Full-Stack Developers | Brad Frost</title>
@@ -4520,7 +4520,7 @@ Summary
 &lt;p&gt;Large organizations have the ability to hire specialists, which is why I get so confused why so many companies proudly declare they only hire full-stack developers. Having team members that can own the frontend experience is a good thing. Having team members that can own all things backend is a good thing. Having everyone work together to create successful products is a good thing.&lt;&#x2F;p&gt;
 &lt;p&gt;I don’t think “full-stack developer” is necessarily a bad word, and there’s nothing wrong for individual developers to define their role in that way. But organizationally, when I encounter “we only hire full-stack developers” orgs I’ve only seen issues with their process and UI code.&lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="http://bradfrost.com/blog/post/full-stack-developers/"/>
-    <pubDate>Wed Sep 13 2017 18:52:06 GMT+0100 (BST)</pubDate>
+    <published>2017-09-13T17:52:06.000Z</published>
   </entry>
   <entry>
     <title>The Lessons and Questions of the iPhone X and the iPhone 8 | Stratechery</title>
@@ -4606,7 +4606,7 @@ It’s easy
 &lt;p&gt;That is why I find this launch so fascinating, and will be watching the upcoming quarter’s results so closely: Jobs built Apple to be the best, and the company has succeeded by being exactly that. Does that foreclose the possibility of also being really good, and the gains from market segmentation that follow?&lt;&#x2F;p&gt;
 &lt;ol&gt;&lt;li&gt;Unfortunately, the &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;www.apple.com&#x2F;apple-events&#x2F;september-2017&#x2F;&quot;&gt;video of the event&lt;&#x2F;a&gt; no longer includes the opening with The Beatles song; you’ll have to take my word for it&lt;&#x2F;li&gt;&lt;li&gt;I will cover all aspects of Apple’s keynote in tomorrow’s Daily Update&lt;&#x2F;li&gt;&lt;li&gt;Other phones, like the &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;www.essential.com&quot;&gt;Essential Phone&lt;&#x2F;a&gt;, do have a much smaller cutout; the operating system isn’t re-worked to the degree the iOS is for the iPhone X, though, nor will developers put in special work&lt;&#x2F;li&gt;&lt;li&gt;The stock had fallen to $55.79 in April 2013, nearly half the price of a year earlier&lt;&#x2F;li&gt;&lt;li&gt;In a fortuitous coincidence, I started Stratechery in 2013, and I got a lot of early traction by arguing that Apple was fine&lt;&#x2F;li&gt;&lt;li&gt;I’m generalizing here; some customers genuinely prefer Android and primarily bought Samsung; Apple dominated the high end though&lt;&#x2F;li&gt;&lt;&#x2F;ol&gt;</content>
     <link rel="alternate" href="https://stratechery.com/2017/the-lessons-and-questions-of-the-iphone-x-and-the-iphone-8/"/>
-    <pubDate>Wed Sep 13 2017 16:13:05 GMT+0100 (BST)</pubDate>
+    <published>2017-09-13T15:13:05.000Z</published>
   </entry>
   <entry>
     <title>Breaking Up the Behemoth | Sandi Metz</title>
@@ -4783,7 +4783,7 @@ Sandi&lt;&#x2F;p&gt;
 
 &lt;p&gt;A few &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;ti.to&#x2F;torqueforge&#x2F;poodnc-october-2017&quot; target&#x3D;&quot;\_blank&quot;&gt;tickets&lt;&#x2F;a&gt; remain.   &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;ti.to&#x2F;torqueforge&#x2F;poodnc-october-2017&quot; target&#x3D;&quot;\_blank&quot;&gt;Get yours&lt;&#x2F;a&gt; before they&#39;re gone!&lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="https://www.sandimetz.com/blog/2017/9/13/breaking-up-the-behemoth"/>
-    <pubDate>Wed Sep 13 2017 12:00:00 GMT+0100 (BST)</pubDate>
+    <published>2017-09-13T11:00:00.000Z</published>
   </entry>
   <entry>
     <title>I don’t know who the Web Audio API is designed for | Clean Rinse</title>
@@ -4882,7 +4882,7 @@ pumpAudio();
 &lt;p&gt;Can the ridiculous overeagerness of Web Audio be reversed? Can we bring back a simple “play audio” API and bring back the performance gains once we see what happens in the wild? I don’t know, I’m not on these committees, I don’t even work in web development other than fooling around on nights and weekends, and I certainly don’t have the time or patience to follow something like this through.&lt;&#x2F;p&gt;
 &lt;p&gt;But I would really, really like to see it happen.&lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="http://blog.mecheye.net/2017/09/i-dont-know-who-the-web-audio-api-is-designed-for/"/>
-    <pubDate>Wed Sep 13 2017 07:44:23 GMT+0100 (BST)</pubDate>
+    <published>2017-09-13T06:44:23.000Z</published>
   </entry>
   <entry>
     <title>How to Grow a User Group, the Remix | 8th Light Blog</title>
@@ -5016,19 +5016,19 @@ pumpAudio();
 
 &lt;p&gt;If you want to see this approach in action, we invite you to participate in &lt;a href&#x3D;&quot;http:&#x2F;&#x2F;chicagoruby.org&quot;&gt;ChicagoRuby&lt;&#x2F;a&gt; and &lt;a href&#x3D;&quot;http:&#x2F;&#x2F;windycityrails.com&quot;&gt;WindyCityRails&lt;&#x2F;a&gt;. Our members will make you feel welcome. And awesome!&lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="https://8thlight.com/blog/ray-hightower/2017/09/13/how-to-grow-a-user-group-remix.html"/>
-    <pubDate>Wed Sep 13 2017 06:00:00 GMT+0100 (BST)</pubDate>
+    <published>2017-09-13T05:00:00.000Z</published>
   </entry>
   <entry>
     <title>The UK FCA (Finally) Speaks About ICOs | Preston Byrne</title>
     <content type="html">Huge disclaimer notice! In red! I’m an English lawyer, so I want to begin this blog post by saying that I don’t know you, I’m not your lawyer, this blog post is not legal advice, and since structuring ICOs involves navigating more minefields than a British battlecruiser in the Skagerrak during Battle of Jutland, you definitely need to get a qualified lawyer of your own before you do anything ICO-related. Period. If you have no idea what an ICO is, read this. This post is a general survey written by a lawyer for other lawyers with a view to opening...</content>
     <link rel="alternate" href="https://prestonbyrne.com/2017/09/12/the-fca-finally-speaks/"/>
-    <pubDate>Tue Sep 12 2017 17:19:09 GMT+0100 (BST)</pubDate>
+    <published>2017-09-12T16:19:09.000Z</published>
   </entry>
   <entry>
     <title>Gift vs. Reputation in OSS | 250bpm</title>
     <content type="html">&lt;div&gt; &lt;p&gt;Some time ago I&#39;ve written a &lt;a href&#x3D;&quot;http:&#x2F;&#x2F;250bpm.com&#x2F;blog:93&quot;&gt;short note&lt;&#x2F;a&gt; about usage of term &amp;quot;gift culture&amp;quot; in &amp;quot;Homesteading the Noosphere&amp;quot; by Eric S. Raymond. Eric Raymond have responded &lt;a href&#x3D;&quot;http:&#x2F;&#x2F;esr.ibiblio.org&#x2F;?p&#x3D;7579&quot;&gt;here&lt;&#x2F;a&gt;. Unfortunately, I haven&#39;t had time to properly respond until now. Today, finally, I&#39;ve managed to write down some notes on the topic.&lt;&#x2F;p&gt; &lt;p&gt;But first, let me get some stuff out of the way.&lt;&#x2F;p&gt; &lt;p&gt;First, Raymond is correct about the terminology. Looking at Wikipedia article about gift culture it looks like the term is used for everything from Kula ring to alms giving and communism. To me it seems that having a term that broad makes it almost useless, but whatever. Just to be clear, in the remaining part of this post I am going to use the term &amp;quot;gift culture&amp;quot; strictly as if it referred to the reciprocal exchange systems of the nations of the Pacific rim.&lt;&#x2F;p&gt; &lt;p&gt;Second, when I said we should talk about &amp;quot;reputation culture&amp;quot; I&#39;ve just used the term that seemed to describe the thing. I don&#39;t think it&#39;s used in anthropology. Anyway, what I meant was the kind of thing that must have existed in the primordial open source. Number of participants was low, likely below Dunbar number. Everyone knew everyone else. It was easy to keep track of reputation of every person involved. If you released a piece of software to public you were rewarded by increased reputation in the community. The thing I&#39;ve missed and that Eric Raymond have helpfully pointed out is that the this kind of reputation seeking exists even in traditional societies. In real world, it&#39;s always a mix of both mechanisms.&lt;&#x2F;p&gt; &lt;p&gt;Third, he points out that copyleft licenses are not used to regulate in-group behaviour. Rather it&#39;s &amp;quot;a lever on the behavior of outsiders coming into contact with the hacker culture.&amp;quot; While true, it seems that most important thing here is not what it says literally but what it points to: There is an in-group and there are outsiders. There&#39;s a conflict between the two which has to be regulated. That raises more questions: In a development model so loose as open source, who&#39;s the insider and who&#39;s the alien? How can we distinguish between the two? What&#39;s the true nature of the conflict? And how is it being regulated? I&#39;ll try to address that in this post.&lt;&#x2F;p&gt; &lt;p&gt;If we start with the idea of primeval open source as a group of hackers driven solely by reputation it&#39;s clear that the model had to fail to scale at some point. With millions of contributors to open source, which is the case today, there&#39;s no way to keep track of individual reputations. Richard Stallman and Linus Torvalds may still have their individual reputation, but that&#39;s not the case for the nameless millions.&lt;&#x2F;p&gt; &lt;p&gt;One way out would be to adopt the free market system. We would abandon our naive hippie ways and do as responsible grown ups do. We would sell software licenses and acquire software patents. The market would take care of the rest. Except that markets are mechanism for allocation of scarce resources and software, unfortunately, is not a scarce resource. You can copy it ad libitum at no cost.&lt;&#x2F;p&gt; &lt;p&gt;Software industry has experimented with market for software for decades. They&#39;ve tried to turn software into commodity. They&#39;ve tried to introduce artificial scarcity. The result was a dumpster fire so bad that no decent person wants to participate in it any more. In fact, the very free software movement was born out of disgust with the market failures that we had to deal with.&lt;&#x2F;p&gt; &lt;p&gt;So no, markets were not the answer. And with both reputation culture ruled out by the size of the community and the market system ruled out by the non-scarce nature of software the only other option to pursue was the gift economy.&lt;&#x2F;p&gt; &lt;p&gt;Now, don&#39;t get me wrong. I am not saying that hackers have explored the anthropological literature, found out about potlatch and deliberately tried to implement it. What I am saying is that gift culture comes naturally. So naturally, in fact, that I wouldn&#39;t be at all surprised if it turned out that psychology that powers it is hard-wired into our brains. It&#39;s hard to find a society that doesn&#39;t exhibit at least some elements of gift exchange and even our own culture, which, out of all the cultures, has strayed furthest away from it is not completely devoid of sociological structures maintained and reinforced by reciprocated gifts.&lt;&#x2F;p&gt; &lt;p&gt;What I am really saying is that when the market mindset that is so laboriously instilled into us turned out to lead to a failure of epic proportions, the natural, almost instinctive, fallback was to the gift culture.&lt;&#x2F;p&gt; &lt;p&gt;As a big man from Papua gives away a dozen of pigs and couple of cassowaries and expects, in time, to get even more back, the programmers started to give the fruits of their labour away and, according to the logic of the gift economy, patiently waited for reciprocation.&lt;&#x2F;p&gt; &lt;p&gt;But the nature of software defies the gift system as much as it defies the market system. Instead of two scores of pigs and four cassowaries there came questions, complaints, bug reports and requests for features. Instead of reciprocated gifts, the programmer got even more work to do. Then there came patches which looked like true gifts until one realized that although the author of the patch invested their own time to write it they were basically dumping the code over the wall and they expected the maintainer of the project to take care of it for ever after, to fix bugs in it and, generally, to deal with any problems that the patch may have introduced. To the programmer, in the end, all the users seemed to have failed to reciprocate and, in traditional terms, to have &amp;quot;lost their face&amp;quot; and became &amp;quot;rubbish men&amp;quot;.&lt;&#x2F;p&gt; &lt;p&gt;The situation doesn&#39;t look much better from the user&#39;s point of view. They&#39;ve invested their own work to adopt the software, which, instinctively, feels like a gift, and the software turns out to be buggy, to miss features and, generally, to not perform as advertised. So they craft a patch, that is, they give yet one more gift, and the patch gets rejected. That&#39;s a big no-no in traditional gift culture. Rejecting a gift is a big offence and can easily lead to violence. From the user&#39;s point of view, the one who has lost their face is definitely the programmer.&lt;&#x2F;p&gt; &lt;p&gt;In the end, we see two parties, both feeling like they were giving gifts and both feeling like the gifts were not reciprocated or even spurned. That doesn&#39;t sound like a recipe for a viable gift culture.&lt;&#x2F;p&gt; &lt;p&gt;***&lt;&#x2F;p&gt; &lt;p&gt;While the above is mostly uncontroversial and can be supported by dozens of blog posts written by frustrated open source community members, what follows is my speculation and may easily turn out to be completely wrong.&lt;&#x2F;p&gt; &lt;p&gt;I think that the solution to the problem described above is, in many a project, to retreat to the primeval reputation culture. It is accomplished by treating only those that are known to cooperate well as members of the community. Everyone else is treated as a potentially hostile alien. The aliens are benevolently allowed to use the software, or maybe they are shown their place by copyleft licenses, but they are not welcome to mess with the internal dealings of the tribe. The tribe is kept small so that everyone can track everyone else&#39;s reputation and can be effectively punished if they fail to reciprocate. To become a member of the tribe it&#39;s not sufficient to submit a patch. You may be, for example, asked to undergo a rite of passage such as keeping a straight face while being savaged by Linus. Or you may be asked to prove your commitment by reworking your patch over and over without being granted any guarantee that it will be ever accepted.&lt;&#x2F;p&gt; &lt;p&gt;As already said, I am not sure whether this &amp;quot;feudalization of open source&amp;quot; interpretation is correct but it seems to explain at least some phenomena seen in the wild.&lt;&#x2F;p&gt; &lt;p&gt;&lt;strong&gt;Martin Sústrik, September 12th, 2017&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt; &lt;div&gt;&lt;&#x2F;div&gt; &lt;&#x2F;div&gt; &lt;p&gt;by &lt;a href&#x3D;&quot;http:&#x2F;&#x2F;www.wikidot.com&#x2F;user:info&#x2F;martin-sustrik&quot;&gt;&lt;&#x2F;a&gt;&lt;a href&#x3D;&quot;http:&#x2F;&#x2F;www.wikidot.com&#x2F;user:info&#x2F;martin-sustrik&quot;&gt;martin_sustrik&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="http://250bpm.com/blog:101"/>
-    <pubDate>Tue Sep 12 2017 11:45:02 GMT+0100 (BST)</pubDate>
+    <published>2017-09-12T10:45:02.000Z</published>
   </entry>
   <entry>
     <title>Facebook, You Needy Sonofabitch | Brad Frost</title>
@@ -5096,13 +5096,13 @@ What to make of all this
 &lt;p&gt;There are of course plenty of weighty, important topics worth criticizing Facebook for, from their perpetuating fake news to their role in influencing the election to enabling the surveillance state and so on. But even this seemingly benign topic has huge ramifications on how people spend their time and live their lives. As users, it’s important to be aware of how the platform is manipulating you. As designers, it’s important to be mindful of how much attention we’re demanding from users and why we’re demanding that attention in the first place.&lt;&#x2F;p&gt;
 &lt;p&gt;So that’s where I’m at. I’m likely not going to delete Facebook entirely since I do genuinely enjoy staying in touch with the people in my life, and for better or worse Facebook is where those people hang out. But I want to do use Facebook on my own terms, not theirs.&lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="http://bradfrost.com/blog/post/facebook-you-needy-sonofabitch/"/>
-    <pubDate>Tue Sep 12 2017 04:12:47 GMT+0100 (BST)</pubDate>
+    <published>2017-09-12T03:12:47.000Z</published>
   </entry>
   <entry>
     <title>Blockchain ICO claims it will be worth $1 trillion by 2025 | Preston Byrne</title>
     <content type="html">You can’t make this stuff up. Another real estate #ICO warning, this time about @LATokens. pic.twitter.com&#x2F;yBfNjt1EXE — Ragnar [No2x] ⚑ (@Ragnarly) September 11, 2017 Filed under: ICOs</content>
     <link rel="alternate" href="https://prestonbyrne.com/2017/09/11/blockchain-ico-claims-it-will-be-worth-1-trillion-by-2025/"/>
-    <pubDate>Mon Sep 11 2017 21:53:23 GMT+0100 (BST)</pubDate>
+    <published>2017-09-11T20:53:23.000Z</published>
   </entry>
   <entry>
     <title>FBPurity | Brad Frost</title>
@@ -5110,25 +5110,25 @@ What to make of all this
 &lt;blockquote&gt;&lt;p&gt;F.B. Purity is a browser extension &#x2F; add-on that lets you clean up and customise Facebook. It filters out the junk you don’t want to see, leaving behind the stories and page elements you do wish to see.&lt;&#x2F;p&gt;&lt;&#x2F;blockquote&gt;
 &lt;p&gt;Sounds fantastic. Count me in.&lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="http://bradfrost.com/blog/link/fbpurity/"/>
-    <pubDate>Mon Sep 11 2017 16:56:27 GMT+0100 (BST)</pubDate>
+    <published>2017-09-11T15:56:27.000Z</published>
   </entry>
   <entry>
     <title>ICO Thought of the Week | Preston Byrne</title>
     <content type="html">Presented without comment. &amp;quot;everybody is a genius in a bull market&amp;quot; – random redditor talking truth to self-fellating early crypto investors. pic.twitter.com&#x2F;VBbI6MULDx — Liad Shababo (@L1AD) September 10, 2017 Filed under: ICOs</content>
     <link rel="alternate" href="https://prestonbyrne.com/2017/09/10/ico-thought-of-the-week/"/>
-    <pubDate>Mon Sep 11 2017 00:42:56 GMT+0100 (BST)</pubDate>
-  </entry>
-  <entry>
-    <title>Don’t “Validate” Designs; Test Them | Nielsen Norman Group</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Summary:&lt;&#x2F;strong&gt; The phrase “validate the design” discourages teams from finding and following up on UX issues in user testing. UX research must drive design change, not just pat designers on the back.&lt;&#x2F;p&gt;&lt;hr &#x2F;&gt;&lt;br &#x2F;&gt;&lt;p&gt; All too often people use the word &amp;quot;validate&amp;quot; to justify their UX work. As in, &amp;quot;Let&#39;s test the design to validate it,&amp;quot; or “Let’s do an expert design review to validate this iteration.”&lt;&#x2F;p&gt;&lt;p&gt; I strongly oppose using &amp;quot;validate&amp;quot; in this context. Call it a pet peeve. Call it semantics. Call me rigid. But let me tell you why I feel this way.&lt;&#x2F;p&gt;&lt;p&gt; User research is as much a mindset as it is a science and an art. In a user study, attitude greatly affects participants, your team’s reactions to their behaviors, and follow-up actions on study findings. Planning the testing, observing users, analyzing findings, and describing the research process all require a delicate balance of curiosity, realism, diplomacy, honesty, and a profound ability to welcome and withstand criticism.&lt;&#x2F;p&gt;&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;&lt;a href&#x3D;&quot;&#x2F;articles&#x2F;no-validate-in-ux&#x2F;&quot;&gt;Read Full Article&lt;&#x2F;a&gt;</content>
-    <link rel="alternate" href="https://www.nngroup.com/articles/no-validate-in-ux/"/>
-    <pubDate>Sun Sep 10 2017 17:00:00 GMT+0100 (BST)</pubDate>
+    <published>2017-09-10T23:42:56.000Z</published>
   </entry>
   <entry>
     <title>Audio Signifiers for Voice Interaction | Nielsen Norman Group</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;Summary:&lt;&#x2F;strong&gt; Provide explicit, implicit, and nonverbal signifiers to help users understand their options in voice-interaction interfaces. &lt;&#x2F;p&gt;&lt;hr &#x2F;&gt;&lt;br &#x2F;&gt;&lt;p&gt; Good voice interfaces require not only excellent natural language comprehension, but also strategies for helping users understand the universe of actions and commands available in voice interactions — in other words, we need to bridge the Gulf of Execution. This interaction design challenge is present in all systems, but is inherently more difficult for voice interfaces.&lt;&#x2F;p&gt; The Gulf of Execution&lt;p&gt; To successfully interact with any system, people must be able to (1) figure out what &lt;strong&gt;  actions to take &lt;&#x2F;strong&gt; in order to achieve a specific goal, and (2) &lt;strong&gt;  understand the results &lt;&#x2F;strong&gt; of those actions. In his seminal book, &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;www.nngroup.com&#x2F;books&#x2F;design-everyday-things-revised&#x2F;&quot;&gt;  The Design of Everyday Things &lt;&#x2F;a&gt; , our colleague Don Norman described these needs as the Gulf of Execution and the Gulf of Evaluation, respectively. Both are important, but in this article, we’ll focus on the Gulf of Execution, and how voice-interaction systems can help users understand what commands are possible.&lt;&#x2F;p&gt;&lt;p&gt; In graphical user interfaces (GUIs), designers can help people bridge the Gulf of Execution by providing &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;www.nngroup.com&#x2F;articles&#x2F;clickable-elements&#x2F;&quot;&gt;  visible signifiers &lt;&#x2F;a&gt; , like &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;www.nngroup.com&#x2F;articles&#x2F;clickable-elements&#x2F;&quot;&gt;  distinctive colors for clickable text &lt;&#x2F;a&gt; . When used appropriately, these techniques enable users to understand at a glance what actions are possible; conversely, research shows that &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;www.nngroup.com&#x2F;articles&#x2F;flat-ui-less-attention-cause-uncertainty&#x2F;&quot;&gt;  diminished graphical signifiers lead to slower task times &lt;&#x2F;a&gt; and cause click uncertainty in a GUI.&lt;&#x2F;p&gt;&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;&lt;a href&#x3D;&quot;&#x2F;articles&#x2F;audio-signifiers-voice-interaction&#x2F;&quot;&gt;Read Full Article&lt;&#x2F;a&gt;</content>
     <link rel="alternate" href="https://www.nngroup.com/articles/audio-signifiers-voice-interaction/"/>
-    <pubDate>Sun Sep 10 2017 17:00:00 GMT+0100 (BST)</pubDate>
+    <published>2017-09-10T16:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title>Don’t “Validate” Designs; Test Them | Nielsen Norman Group</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Summary:&lt;&#x2F;strong&gt; The phrase “validate the design” discourages teams from finding and following up on UX issues in user testing. UX research must drive design change, not just pat designers on the back.&lt;&#x2F;p&gt;&lt;hr &#x2F;&gt;&lt;br &#x2F;&gt;&lt;p&gt; All too often people use the word &amp;quot;validate&amp;quot; to justify their UX work. As in, &amp;quot;Let&#39;s test the design to validate it,&amp;quot; or “Let’s do an expert design review to validate this iteration.”&lt;&#x2F;p&gt;&lt;p&gt; I strongly oppose using &amp;quot;validate&amp;quot; in this context. Call it a pet peeve. Call it semantics. Call me rigid. But let me tell you why I feel this way.&lt;&#x2F;p&gt;&lt;p&gt; User research is as much a mindset as it is a science and an art. In a user study, attitude greatly affects participants, your team’s reactions to their behaviors, and follow-up actions on study findings. Planning the testing, observing users, analyzing findings, and describing the research process all require a delicate balance of curiosity, realism, diplomacy, honesty, and a profound ability to welcome and withstand criticism.&lt;&#x2F;p&gt;&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;&lt;a href&#x3D;&quot;&#x2F;articles&#x2F;no-validate-in-ux&#x2F;&quot;&gt;Read Full Article&lt;&#x2F;a&gt;</content>
+    <link rel="alternate" href="https://www.nngroup.com/articles/no-validate-in-ux/"/>
+    <published>2017-09-10T16:00:00.000Z</published>
   </entry>
   <entry>
     <title>Cool vim feature: sessions! | Julia Evans</title>
@@ -5159,7 +5159,7 @@ mainly). It’s a builtin feature, no fancy plugins needed.&lt;&#x2F;p&gt;
 
 &lt;&#x2F;div&gt;</content>
     <link rel="alternate" href="https://jvns.ca/blog/2017/09/10/vim-sessions/"/>
-    <pubDate>Sun Sep 10 2017 13:58:53 GMT+0100 (BST)</pubDate>
+    <published>2017-09-10T12:58:53.000Z</published>
   </entry>
   <entry>
     <title>Data structure: the treap! | Julia Evans</title>
@@ -5181,7 +5181,7 @@ and the algorithms for insert&#x2F;delete are way simpler.&lt;&#x2F;p&gt;
 
 &lt;&#x2F;div&gt;</content>
     <link rel="alternate" href="https://jvns.ca/blog/2017/09/09/data-structure--the-treap-/"/>
-    <pubDate>Sat Sep 09 2017 22:37:15 GMT+0100 (BST)</pubDate>
+    <published>2017-09-09T21:37:15.000Z</published>
   </entry>
   <entry>
     <title>Floating Point Benchmark: Scala Language Added | Fourmilog - Fourmilab Change Log</title>
@@ -5445,7 +5445,7 @@ The relative performance of the various language implementations (with C taken a
 &lt;&#x2F;table&gt;
 &lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="http://www.fourmilab.ch/fourmilog/archives/2017-09/001710.html"/>
-    <pubDate>Sat Sep 09 2017 14:08:49 GMT+0100 (BST)</pubDate>
+    <published>2017-09-09T13:08:49.000Z</published>
   </entry>
   <entry>
     <title>The better way to learn a new programming language | Code Without Rules</title>
@@ -5606,7 +5606,7 @@ And if that’s not enough, &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;jvns.ca&#x2F
 &lt;p&gt;In all these cases you’ll have motivation, specific goals, time, and often an existing code base to build off of.
 And best of all, you’ll be able to learn while you’re getting paid.&lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="https://codewithoutrules.com/2017/09/09/learn-a-new-programming-language/"/>
-    <pubDate>Sat Sep 09 2017 05:00:00 GMT+0100 (BST)</pubDate>
+    <published>2017-09-09T04:00:00.000Z</published>
   </entry>
   <entry>
     <title>Weekly update 51 (Melbourne edition) | Troy Hunt</title>
@@ -5622,19 +5622,19 @@ References
 &lt;&#x2F;ol&gt;
 &lt;&#x2F;div&gt;</content>
     <link rel="alternate" href="http://feedproxy.google.com/~r/TroyHunt/~3/ud1uDEIXliw/"/>
-    <pubDate>Fri Sep 08 2017 08:37:41 GMT+0100 (BST)</pubDate>
+    <published>2017-09-08T07:37:41.000Z</published>
   </entry>
   <entry>
     <title>How I work (mostly) TDD-style | Ron Jeffries</title>
     <content type="html">Responding to a mistaken TDD flowchart.</content>
     <link rel="alternate" href="http://ronjeffries.com/articles/017-08ff/how-i-tdd/"/>
-    <pubDate>Fri Sep 08 2017 05:00:00 GMT+0100 (BST)</pubDate>
+    <published>2017-09-08T04:00:00.000Z</published>
   </entry>
   <entry>
     <title>Ok Google, Talk to Vogue | Condé Nast Technology</title>
     <content type="html">Exclusive audio from the Vogue September available only on Google Home</content>
     <link rel="alternate" href="https://technology.condenast.com/story/vogue-on-google-home"/>
-    <pubDate>Thu Sep 07 2017 16:39:50 GMT+0100 (BST)</pubDate>
+    <published>2017-09-07T15:39:50.000Z</published>
   </entry>
   <entry>
     <title>The New Kingdom of Nouns | -dealloc</title>
@@ -5980,7 +5980,7 @@ let totalScore: Int &#x3D; questionScores.parallelReduce(0, Sum)
   &lt;&#x2F;ol&gt;
 &lt;&#x2F;div&gt;</content>
     <link rel="alternate" href="http://belkadan.com/blog/2017/09/The-New-Kingdom-of-Nouns/"/>
-    <pubDate>Thu Sep 07 2017 08:00:00 GMT+0100 (BST)</pubDate>
+    <published>2017-09-07T07:00:00.000Z</published>
   </entry>
   <entry>
     <title>New Leadership for ChicagoRuby | 8th Light Blog</title>
@@ -6002,13 +6002,13 @@ let totalScore: Int &#x3D; questionScores.parallelReduce(0, Sum)
 
 &lt;p&gt;Speaking of growth: If you want to boost your skills with Ruby, Rails, or related tech, consider WindyCityRails. The presentations are always outstanding and the networking is powerful. Use the discount code &lt;strong&gt;8THLIGHT&lt;&#x2F;strong&gt; when you register for the 2017 conference, and you’ll get $50 off. See you at &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;windycityrails.com&#x2F;&quot;&gt;WindyCityRails&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="https://8thlight.com/blog/ray-hightower/2017/09/07/chicagoruby-new-leadership.html"/>
-    <pubDate>Thu Sep 07 2017 06:00:00 GMT+0100 (BST)</pubDate>
+    <published>2017-09-07T05:00:00.000Z</published>
   </entry>
   <entry>
     <title>Restarting after long gap. Maybe some dates. | Ron Jeffries</title>
     <content type="html">It has been a week since Tozier and I last worked, and I spent most of the time under repair. I&#39;m thinking we&#39;ll work on the date-sensitive stuff. I&#39;m mostly wrong.</content>
     <link rel="alternate" href="http://ronjeffries.com/articles/017-08ff/ipad-l-dates/"/>
-    <pubDate>Thu Sep 07 2017 05:00:00 GMT+0100 (BST)</pubDate>
+    <published>2017-09-07T04:00:00.000Z</published>
   </entry>
   <entry>
     <title>Reading List: Making Contact | Fourmilog - Fourmilab Change Log</title>
@@ -6331,7 +6331,7 @@ this spark, lit within us, will never be extinguished.
 &lt;&#x2F;p&gt;
 </content>
     <link rel="alternate" href="http://www.fourmilab.ch/fourmilog/archives/2017-09/001709.html"/>
-    <pubDate>Thu Sep 07 2017 01:14:05 GMT+0100 (BST)</pubDate>
+    <published>2017-09-07T00:14:05.000Z</published>
   </entry>
   <entry>
     <title>Using Atomic Transactions to Power an Idempotent API | Brandur Leach</title>
@@ -6690,7 +6690,7 @@ semantics, so the job themselves must be idempotent.&lt;&#x2F;p&gt;
 
 &lt;&#x2F;div&gt;</content>
     <link rel="alternate" href="https://brandur.org/http-transactions"/>
-    <pubDate>Wed Sep 06 2017 17:00:14 GMT+0100 (BST)</pubDate>
+    <published>2017-09-06T16:00:14.000Z</published>
   </entry>
   <entry>
     <title>Everything is Changing; So Should Antitrust | Stratechery</title>
@@ -6751,13 +6751,13 @@ semantics, so the job themselves must be idempotent.&lt;&#x2F;p&gt;
 &lt;p&gt;Moreover, these platforms have far more positive outcomes than distribution-based monopolies ever did: the consumer experience is better, and there are huge new opportunities to build new businesses (especially serving niches completely ignored in a distribution-based world) on top of them. That is a good thing, worth preserving.&lt;&#x2F;p&gt;
 &lt;p&gt;To that end any antitrust regulation, if it comes, needs a fresh approach rooted in the reality of the Internet. I agree that too much concentrated power has inherent problems; I also believe a structural incentive to provide a great customer experience, along with the potential to create completely new kinds of businesses, is worth preserving. Antitrust crusaders, to whom &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;stratechery.com&#x2F;2017&#x2F;facebook-and-the-cost-of-monopoly&#x2F;&quot;&gt;I am clearly sympathetic&lt;&#x2F;a&gt;, ignore these realities at their political peril.&lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="https://stratechery.com/2017/everything-is-changing-so-should-antitrust/"/>
-    <pubDate>Wed Sep 06 2017 15:23:46 GMT+0100 (BST)</pubDate>
+    <published>2017-09-06T14:23:46.000Z</published>
   </entry>
   <entry>
     <title>Sense of Urgency | Ron Jeffries</title>
     <content type="html">Mike (GeePaw) Hill storified about sense of urgency and an acronym RAMPS. I like what he said and will muse upon it.</content>
     <link rel="alternate" href="http://ronjeffries.com/articles/017-08ff/ramps/"/>
-    <pubDate>Wed Sep 06 2017 05:00:00 GMT+0100 (BST)</pubDate>
+    <published>2017-09-06T04:00:00.000Z</published>
   </entry>
   <entry>
     <title>Documenting The Pittsburgh Potty: An Architectural Mystery In Our Basements | Brad Frost</title>
@@ -6767,7 +6767,7 @@ semantics, so the job themselves must be idempotent.&lt;&#x2F;p&gt;
 &lt;p&gt;This article proffers another explanation, that basements were servants’ quarters. While that’s no doubt true for some of the more gigantic houses in Pittsburgh, it can’t be true for all of them. My grandpa, who’s in his late 80s, still showers in the cinderblock shower stall in the small house where my dad was born and raised.&lt;&#x2F;p&gt;
 &lt;p&gt; &lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="http://bradfrost.com/blog/link/documenting-the-pittsburgh-potty-an-architectural-mystery-in-our-basements/"/>
-    <pubDate>Wed Sep 06 2017 03:58:58 GMT+0100 (BST)</pubDate>
+    <published>2017-09-06T02:58:58.000Z</published>
   </entry>
   <entry>
     <title>Finding out if&#x2F;why a server is dropping packets | Julia Evans</title>
@@ -6869,13 +6869,13 @@ the future!&lt;&#x2F;p&gt;
 &lt;p&gt;If you have better tips for debugging whether&#x2F;why packets are being dropped on
 a computer, let me know!&lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="https://jvns.ca/blog/2017/09/05/finding-out-where-packets-are-being-dropped/"/>
-    <pubDate>Wed Sep 06 2017 00:39:28 GMT+0100 (BST)</pubDate>
+    <published>2017-09-05T23:39:28.000Z</published>
   </entry>
   <entry>
     <title>Building a design system for HealthCare.gov | Brad Frost</title>
     <content type="html">&lt;p&gt;This is a great post that lays out the nuts and bolts of the design system used to build Healthcare.gov. It details a lot of architecture and tooling, and I’m super happy to hear they took inspiration from my post about &lt;a href&#x3D;&quot;http:&#x2F;&#x2F;bradfrost.com&#x2F;blog&#x2F;post&#x2F;css-architecture-for-design-systems&#x2F;&quot;&gt;css architecture for design systems&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="http://bradfrost.com/blog/link/building-a-design-system-for-healthcare-gov/"/>
-    <pubDate>Tue Sep 05 2017 13:53:49 GMT+0100 (BST)</pubDate>
+    <published>2017-09-05T12:53:49.000Z</published>
   </entry>
   <entry>
     <title>Over-abstraction | -dealloc</title>
@@ -6950,13 +6950,13 @@ a computer, let me know!&lt;&#x2F;p&gt;</content>
 
 &lt;p&gt;P.P.S. After I posted this, Brandon Williams made a &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;twitter.com&#x2F;mbrandonw&#x2F;status&#x2F;905458906121547778&quot;&gt;bit of a response&lt;&#x2F;a&gt; in tweetstorm format, and Elviro Rocca made a &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;broomburgo.github.io&#x2F;fun-ios&#x2F;post&#x2F;on-abstraction&#x2F;&quot;&gt;blog post&lt;&#x2F;a&gt; a few days after. You can also read &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;twitter.com&#x2F;UINT_MIN&#x2F;status&#x2F;905452666771226624&quot;&gt;other Twitter people’s responses&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="http://belkadan.com/blog/2017/09/Over-abstraction/"/>
-    <pubDate>Tue Sep 05 2017 08:00:00 GMT+0100 (BST)</pubDate>
+    <published>2017-09-05T07:00:00.000Z</published>
   </entry>
   <entry>
     <title>Monitoring and Observability | Cindy Sridharan</title>
     <content type="html">&lt;p&gt;During lunch with a few friends in late July, the topic of observability came up. I have a talk coming up at &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;conferences.oreilly.com&#x2F;velocity&#x2F;vl-ny&quot;&gt;Velocity&lt;&#x2F;a&gt; in less than a month called &lt;strong&gt;&lt;em&gt;Monitoring in the time of Cloud Native&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;, so I’ve been speaking with friends about how they approach monitoring where they work. During this conversation, one of my friends mentioned:&lt;&#x2F;p&gt;&lt;blockquote&gt;&lt;p&gt;OH - &amp;quot;Observability - because devs don&#39;t like to do &amp;quot;monitoring&amp;quot; we need to package it in new nomenclature to make it palatable and trendy.&lt;&#x2F;p&gt;&lt;p&gt; — &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;twitter.com&#x2F;copyconstruct&#x2F;status&#x2F;891066003844546560&quot;&gt;@copyconstruct&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;blockquote&gt;&lt;p&gt;He was only half joking. I’ve heard several variations of this zinger, some of them being:&lt;&#x2F;p&gt;&lt;blockquote&gt;— Why call it monitoring? That’s not sexy enough anymore.&lt;&#x2F;blockquote&gt;&lt;blockquote&gt;— Observability, because rebranding Ops as DevOps wasn’t bad enough, now they’re devopsifying monitoring too&lt;&#x2F;blockquote&gt;&lt;blockquote&gt;— I’m an engineer that can help provide monitoring to the other engineers in the organization&lt;br &#x2F;&gt;&amp;gt; Great, here’s $80k.&lt;br &#x2F;&gt;I’m an architect that can help provide observability for cloud-native, container-based applications&lt;br &#x2F;&gt;&amp;gt; Awesome! Here’s $300k!&lt;&#x2F;blockquote&gt;&lt;blockquote&gt;— Is that supposed to be like the second coming of DevOps? Or was it the Second Way? I can’t remember. It all felt so cultish anyway.&lt;&#x2F;blockquote&gt;&lt;p&gt;So then. What is the difference between “monitoring” and “observability”, if any? Or is the latter just the latest buzzword on the block, to be flogged and shoved down our throats until it has been milked for all its worth?&lt;&#x2F;p&gt;&lt;h4&gt;Once upon a time there was “Monitoring”&lt;&#x2F;h4&gt;&lt;p&gt;“Monitoring” traditionally was an Ops preserve. The term often invokes not very pleasant memories in minds of many who’ve been doing it for long enough they can remember the time when Nagios was state-of-the-art. In the eyes of many, “monitoring” harks back to many dysfunctional aspects of the old school way of operating software, not least the unsophistication of tooling available back in the day that ruled the roost so consummately that the term “monitoring” to this day causes some people to think of simple up&#x2F;down checks.&lt;&#x2F;p&gt;&lt;p&gt;While it’s true that a decade ago, up&#x2F;down checks might’ve been all a “monitoring” tool would have been capable of, in the recent years “monitoring” tools have evolved &lt;em&gt;greatly&lt;&#x2F;em&gt;, to the point where many, many, many people no longer think of “monitoring” as just external pings. While they might still call it “monitoring”, the methods and tools they use are more powerful and streamlined. Time series, logs and traces are all more in vogue than ever these days and are forms of “&lt;em&gt;whitebox &lt;&#x2F;em&gt;monitoring”, which refers to a category of “monitoring” based on the information derived from the internals of systems.&lt;&#x2F;p&gt;&lt;blockquote&gt;&lt;p&gt;&lt;a href&#x3D;&quot;http:&#x2F;&#x2F;twitter.com&#x2F;rakyll&quot; target&#x3D;&quot;_blank&quot;&gt;@rakyll&lt;&#x2F;a&gt; &lt;a href&#x3D;&quot;http:&#x2F;&#x2F;twitter.com&#x2F;copyconstruct&quot; target&#x3D;&quot;_blank&quot;&gt;@copyconstruct&lt;&#x2F;a&gt; Though I personally also use the term &amp;quot;monitoring&amp;quot; to be more broad, including time series collection, alerting, possibly even logs + traces&lt;&#x2F;p&gt;&lt;p&gt; — &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;twitter.com&#x2F;juliusvolz&#x2F;status&#x2F;891348711795830784&quot;&gt;@juliusvolz&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;blockquote&gt;&lt;p&gt;Whitebox monitoring isn’t really a revolutionary idea anymore, at least not since Etsy published the &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;codeascraft.com&#x2F;2011&#x2F;02&#x2F;15&#x2F;measure-anything-measure-everything&#x2F;&quot;&gt;seminal blog post&lt;&#x2F;a&gt; introducing statsd. The blog post goes on to state that:&lt;&#x2F;p&gt;&lt;blockquote&gt;In general, we tend to measure at three levels: network, machine, and application. Application metrics are usually the hardest, yet most important, of the three. They’re very specific to your business, and they change as your applications change (and Etsy changes a lot). Instead of trying to plan out everything we wanted to measure and putting it in a classical &lt;a href&#x3D;&quot;http:&#x2F;&#x2F;www.opscode.com&#x2F;chef&#x2F;&quot;&gt;configuration management system&lt;&#x2F;a&gt;, we decided to make it ridiculously simple for any engineer to get anything they can count or time into a graph with almost no effort.&lt;&#x2F;blockquote&gt;&lt;p&gt;For all its flaws, statsd was a &lt;em&gt;game changer&lt;&#x2F;em&gt;, its popularity and ubiquity being a testament to how it struck the right chord with huge swathes of the industry, so much so that most open source time series based systems as well as vendors have supported statsd style metrics for years now. While not perfect, statsd style metrics collection was a huge improvement over the way one did “monitoring” previously.&lt;&#x2F;p&gt;&lt;h4&gt;Baby’s first Observability&lt;&#x2F;h4&gt;&lt;p&gt;“Observability”, on the other hand, was a term I first encountered while reading a &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;blog.twitter.com&#x2F;engineering&#x2F;en_us&#x2F;a&#x2F;2013&#x2F;observability-at-twitter.html&quot;&gt;post&lt;&#x2F;a&gt; on Twitter’s tech blog a few years ago and have been hearing the term ever since, not in real life or at the places where I’ve worked but at tech conferences. Twitter has since published a &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;blog.twitter.com&#x2F;engineering&#x2F;en_us&#x2F;a&#x2F;2016&#x2F;observability-at-twitter-technical-overview-part-i.html&quot;&gt;two&lt;&#x2F;a&gt; &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;blog.twitter.com&#x2F;engineering&#x2F;en_us&#x2F;a&#x2F;2016&#x2F;observability-at-twitter-technical-overview-part-ii.html&quot;&gt;part&lt;&#x2F;a&gt; blog post on its current Observability stack. The posts are more about the architecture of the different components than the term itself, but the first post begins by stating that:&lt;&#x2F;p&gt;&lt;blockquote&gt;These are the four pillars of the Observability Engineering team’s charter:&lt;&#x2F;blockquote&gt;&lt;blockquote&gt;- Monitoring&lt;br &#x2F;&gt;- Alerting&#x2F;visualization&lt;br &#x2F;&gt;- Distributed systems tracing infrastructure&lt;br &#x2F;&gt;- Log aggregation&#x2F;analytics&lt;&#x2F;blockquote&gt;&lt;p&gt;“Observability”, according to this definition, is a &lt;em&gt;superset&lt;&#x2F;em&gt; of “monitoring”, providing certain benefits and insights that “monitoring” tools come a cropper at. Before examining what these gains might be and when they are even needed, let’s first understand what “monitoring” really is, what its shortcomings are and why “monitoring” alone isn’t sufficient for certain&lt;em&gt; &lt;&#x2F;em&gt;use cases.&lt;&#x2F;p&gt;&lt;h4&gt;Monitoring is for symptom based Alerting&lt;&#x2F;h4&gt;&lt;p&gt;The &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;landing.google.com&#x2F;sre&#x2F;book&#x2F;index.html&quot;&gt;SRE book&lt;&#x2F;a&gt; states:&lt;&#x2F;p&gt;&lt;blockquote&gt;Your monitoring system should address two questions: what’s broken, and why? The “what’s broken” indicates the symptom; the “why” indicates a (possibly intermediate) cause.“What” versus “why” is one of the most important distinctions in writing good monitoring with maximum signal and minimum noise.&lt;&#x2F;blockquote&gt;&lt;p&gt;Blackbox monitoring — that is, monitoring a system from the outside by treating it as a blackbox — is something I find very good at answering the &lt;em&gt;what &lt;&#x2F;em&gt;and&lt;em&gt; &lt;&#x2F;em&gt;for alerting about a problem that’s already occurring (and ideally end user-impacting). Whitebox monitoring, on the other hand, is fantastic for the signals we can &lt;em&gt;anticipate &lt;&#x2F;em&gt;in advance and be on the lookout for. In other words, whitebox monitoring is for the &lt;strong&gt;&lt;em&gt;known, hard &lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;failure modes of a system, the sort that lend themselves well toward exhibiting any deviation in a &lt;em&gt;dashboardable&lt;&#x2F;em&gt; manner, as it were.&lt;&#x2F;p&gt;&lt;p&gt;A good example of something that needs “monitoring” would be a storage server running out of disk space or a proxy server running out of file descriptors. An I&#x2F;O bound service has different failure modes compared to a memory bound one. An HA system has different failure moves compared to a CP system.&lt;&#x2F;p&gt;&lt;blockquote&gt;&lt;p&gt;&lt;a href&#x3D;&quot;http:&#x2F;&#x2F;twitter.com&#x2F;mipsytipsy&quot; target&#x3D;&quot;_blank&quot;&gt;@mipsytipsy&lt;&#x2F;a&gt; &lt;a href&#x3D;&quot;http:&#x2F;&#x2F;twitter.com&#x2F;lizthegrey&quot; target&#x3D;&quot;_blank&quot;&gt;@lizthegrey&lt;&#x2F;a&gt; &lt;a href&#x3D;&quot;http:&#x2F;&#x2F;twitter.com&#x2F;honeycombio&quot; target&#x3D;&quot;_blank&quot;&gt;@honeycombio&lt;&#x2F;a&gt; So for example, I am oncall for a global key value store that has three alerts: error rate, query latency, and repl latency&lt;&#x2F;p&gt;&lt;p&gt; — &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;twitter.com&#x2F;jaqx0r&#x2F;status&#x2F;898709693178105856&quot;&gt;@jaqx0r&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;blockquote&gt;&lt;p&gt;Building “monitorable” systems requires being able to understand the failure domain of the critical components of the system &lt;strong&gt;&lt;em&gt;proactively. &lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;And that’s a tall order. &lt;em&gt;Especially &lt;&#x2F;em&gt;for complex systems. More so for simple systems that interact &lt;em&gt;complexly&lt;&#x2F;em&gt; with one another.&lt;&#x2F;p&gt;One of my favorite kellabyte rants of all time&lt;p&gt;The more mature a system, the better understood are its failure modes. Battle hardened, &lt;a href&#x3D;&quot;http:&#x2F;&#x2F;mcfunley.com&#x2F;choose-boring-technology&quot;&gt;“boring” technology&lt;&#x2F;a&gt; often comes with &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;medium.com&#x2F;@Pinterest_Engineering&#x2F;learn-to-stop-using-shiny-new-things-and-love-mysql-3e1613c2ce14&quot;&gt;well-publicized, well-understood and &lt;em&gt;monitorable &lt;&#x2F;em&gt;failure modes&lt;&#x2F;a&gt;. Being able to entirely architect away a failure mode is the best thing one can do while building systems. The next best thing one can do is to be able to “monitor” impending failures and alert accordingly.&lt;&#x2F;p&gt;&lt;blockquote&gt;&lt;p&gt;&lt;a href&#x3D;&quot;http:&#x2F;&#x2F;twitter.com&#x2F;sarahmei&quot; target&#x3D;&quot;_blank&quot;&gt;@sarahmei&lt;&#x2F;a&gt; &lt;a href&#x3D;&quot;http:&#x2F;&#x2F;twitter.com&#x2F;mipsytipsy&quot; target&#x3D;&quot;_blank&quot;&gt;@mipsytipsy&lt;&#x2F;a&gt; if goal is to build *monitorable* systems, then one can have predictable failure modes and be on the lookout for them. else all bets are off&lt;&#x2F;p&gt;&lt;p&gt; — &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;twitter.com&#x2F;copyconstruct&#x2F;status&#x2F;902651610890813440&quot;&gt;@copyconstruct&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;blockquote&gt;&lt;p&gt;As strange as it might sound, I’m beginning to think one of the design goals while building systems should be to make it as &lt;em&gt;monitorable &lt;&#x2F;em&gt;as possible — which means minimizing the number of unknown-unknowns. For monitoring to be &lt;em&gt;effective, &lt;&#x2F;em&gt;it becomes salient to be able to identify a small set of hard failure modes of a system or a core set of metrics that has the potential to offset one’s assumptions underpinning some of the system design choices. Some believe that the ideal number of signals to be “monitored” is anywhere between 3–5, and definitely no more than 7-10. One of the common pain points that keeps cropping up in my conversations with friends is how &lt;em&gt;noisy &lt;&#x2F;em&gt;their “monitoring” is. Or as one of my friends put it,&lt;&#x2F;p&gt;&lt;blockquote&gt;We have a &lt;strong&gt;ton&lt;&#x2F;strong&gt;&lt;em&gt; &lt;&#x2F;em&gt;of metrics, all right. We try to collect &lt;strong&gt;&lt;em&gt;everything&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;em&gt; &lt;&#x2F;em&gt;but the vast majority of these metrics are never looked at. It leads to a case of severe metric fatigue to the point where some of our engineers now don’t see the point of adding new metrics to the mix, because why bother when only a handful are ever really used?&lt;&#x2F;blockquote&gt;&lt;p&gt;This is something the SRE book warns against:&lt;&#x2F;p&gt;&lt;blockquote&gt;The sources of potential complexity are never-ending. Like all software systems, monitoring can become so complex that it’s fragile, complicated to change, and a maintenance burden. Therefore, design your monitoring system with an eye toward simplicity. In choosing what to monitor, keep the following guidelines in mind:&lt;&#x2F;blockquote&gt;&lt;blockquote&gt;- The rules that catch real incidents most often should be as &lt;strong&gt;simple, predictable, and reliable&lt;&#x2F;strong&gt; as possible.&lt;br &#x2F;&gt;- Data collection, aggregation, and alerting configuration that is rarely exercised (e.g., less than once a quarter for some SRE teams) should be up for removal.&lt;br &#x2F;&gt;- Signals that are collected, but not exposed in any prebaked dashboard nor used by any alert, are candidates for removal.&lt;&#x2F;blockquote&gt;&lt;p&gt;The corollary of the aforementioned points is that &lt;em&gt;monitoring &lt;&#x2F;em&gt;data&lt;em&gt; &lt;&#x2F;em&gt;needs to &lt;em&gt;actionable. &lt;&#x2F;em&gt;What I’ve gathered talking to many people is that when not used to directly drive alerts, monitoring data should be optimized for providing a bird’s eye view of the &lt;em&gt;overall health&lt;&#x2F;em&gt; of a system. In the event of a failure, monitoring data should immediately be able to provide visibility into impact of the failure as well as the effect of any fix deployed. As one of my friends put it:&lt;&#x2F;p&gt;&lt;blockquote&gt;It should be obvious, but the most important requirement of a system is that it should be &lt;strong&gt;up&lt;&#x2F;strong&gt;&lt;em&gt;. &lt;&#x2F;em&gt;The second most important requirement of a system is that it should be &lt;strong&gt;healthy&lt;&#x2F;strong&gt;. Slow is defect and a bug, but it’s still preferable to being flat out &lt;strong&gt;down&lt;&#x2F;strong&gt;&lt;em&gt;. &lt;&#x2F;em&gt;When a system is &lt;strong&gt;down&lt;&#x2F;strong&gt;, there’s nothing I want more than for it to be back &lt;strong&gt;up&lt;&#x2F;strong&gt; again. What I really want my monitoring system to tell me when I’m down is how widespread the impact is, and how any fix deployed — and many a time it’s a stopgap fix — is helping us get back to being as healthy as we can hope, given the circumstances.&lt;&#x2F;blockquote&gt;&lt;p&gt;The crucial thing to understand here is that monitoring doesn’t guarantee that failure can be completely avoided. Monitoring provides a good &lt;em&gt;approximation &lt;&#x2F;em&gt;of the health of a system, but monitoring doesn’t &lt;em&gt;prevent&lt;&#x2F;em&gt; failure entirely.&lt;&#x2F;p&gt;&lt;p&gt;I feel especially poignant writing this because just the previous week we had several hours of degraded performance where I work. It wasn’t a void in our monitoring that caused it. It was MySQL exhibiting one of its nastiest failure modes. Boring old MySQL which was chosen a few years ago with eyes wide open for its boringness and its maturity and our prior experience with it. Boring old MySQL which was the right choice when it was introduced into the stack, which isn’t the right choice anymore given our evolving needs. Like monitoring, boring technology, in and of itself, isn’t a panacea.&lt;&#x2F;p&gt;&lt;p&gt;Monitoring can furnish one with a panoramic view of systems’ performance and behavior in the wild. Monitoring can also greatly assist in understanding the shortcomings and the evolving needs. Monitoring, as such, is an absolute &lt;em&gt;requirement&lt;&#x2F;em&gt; for building, operating and running systems. It, however, does not make our systems completely &lt;em&gt;impregnable&lt;&#x2F;em&gt; to failure, and that shouldn’t be its &lt;em&gt;goal &lt;&#x2F;em&gt;either.&lt;&#x2F;p&gt;&lt;h4&gt;And then there’s “Observability”&lt;&#x2F;h4&gt;&lt;p&gt;Quoting the SRE book again:&lt;&#x2F;p&gt;&lt;blockquote&gt;It can be tempting to combine monitoring with other aspects of inspecting complex systems, such as detailed system profiling, single-process debugging, tracking details about exceptions or crashes, load testing, log collection and analysis, or traffic inspection. While most of these subjects share commonalities with basic monitoring, blending together too many results in overly complex and fragile systems.&lt;&#x2F;blockquote&gt;&lt;p&gt;The SRE book doesn’t quite use the term “observability”, but clearly lays out everything that “monitoring” isn’t and shouldn’t aim to be. I find this to be an interesting paradox, that the “monitoring” of complex systems should itself be &lt;em&gt;simple&lt;&#x2F;em&gt;. And yet it makes perfect sense, since the alternative is empirically proving to be falling short.&lt;&#x2F;p&gt;&lt;p&gt;The goals of “monitoring” and “observability” are different. “Observability” isn’t a substitute for “monitoring” nor does it obviate the need for “monitoring”; they are complementary. “Observability” might be a fancy new term on the horizon, but it really isn’t a novel idea. Events, tracing, exception tracking are all a derivative of logs, and if one has been using any of these tools, one already has some form of “observability”. True, new tools and new vendors will have their own definition and understanding of the term, but in essence “observability” captures what “monitoring” doesn’t (and ideally, &lt;em&gt;shouldn’t&lt;&#x2F;em&gt;).&lt;&#x2F;p&gt;&lt;p&gt;“Monitoring” is best suited to report the overall health of systems. Aiming to “monitor everything” can prove to be an anti-pattern. Monitoring, as such, is best limited to key business and systems metrics derived from time-series based instrumentation, known failure modes as well as blackbox tests. “Observability”, on the other hand, aims to provide highly granular insights into the behavior of systems &lt;strong&gt;&lt;em&gt;along with rich context&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;, perfect for debugging purposes. Since it’s still not possible to predict every single failure mode a system could potentially run into or predict every possible way in which a system could &lt;em&gt;misbehave&lt;&#x2F;em&gt;, it becomes important that we build systems that can be &lt;strong&gt;&lt;em&gt;debugged&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt; armed with evidence and not conjecture.&lt;&#x2F;p&gt;&lt;h4&gt;&lt;strong&gt;Debugging&lt;&#x2F;strong&gt;&lt;&#x2F;h4&gt;&lt;p&gt;Two of my favorite recent talks were &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;www.slideshare.net&#x2F;bcantrill&#x2F;debugging-under-fire-keeping-your-head-when-systems-have-lost-their-mind&quot;&gt;&lt;strong&gt;&lt;em&gt;Debugging under fire: Keeping your head when systems have lost their mind&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; and &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;www.slideshare.net&#x2F;bcantrill&#x2F;zebras-all-the-way-down-the-engineering-challenges-of-the-data-path&quot;&gt;&lt;strong&gt;Zebras all the way down: The engineering challenges of the data path&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;, both by Bryan Cantrill. Since I possibly can’t say it better, I’m going to borrow a couple of slides from those talks here (the entire deck is definitely worth checking out).&lt;&#x2F;p&gt;&lt;p&gt;Debugging is an &lt;em&gt;iterative&lt;&#x2F;em&gt; process, involving iterative introspection of the various observations and facts reported by the system, making the right deductions and testing whether the theory holds water. Evidence cannot be conjured out of thin air nor can it be extrapolated from aggregates, averages, percentiles, historic patterns or any other forms of data primarily collected for &lt;em&gt;monitoring &lt;&#x2F;em&gt;purposes. Evidence needs to be &lt;em&gt;reported&lt;&#x2F;em&gt; by the systems in the form of highly precise and contextual facts and observations, which can later be used while debugging to theorize as to why something might be not working as expected.&lt;&#x2F;p&gt;&lt;p&gt;Furthermore, unlike “monitoring” which is &lt;em&gt;known&lt;&#x2F;em&gt; &lt;em&gt;failure centric&lt;&#x2F;em&gt;, “observability” doesn’t necessarily have to be closely tied to an outage or a user complaint. It can be used as a way to better understand system performance and behavior, even during the what can be perceived as “normal” operation of a system.&lt;&#x2F;p&gt;&lt;h4&gt;Context Matters&lt;&#x2F;h4&gt;&lt;p&gt;Another theme that came up during my recent conversations is how simply buying or setting up a tool doesn’t lead to everyone in the organization actually using it. As one of the people I spoke with noted in dismay:&lt;&#x2F;p&gt;&lt;blockquote&gt;We have Zipkin! We went to great lengths to rope in developers to instrument everything and get Zipkin up and running, but the dev teams don’t use it very much. In retrospect, it wasn’t worth the effort.&lt;&#x2F;blockquote&gt;&lt;p&gt;Tools can only help so much. Before buying or building a tool, it becomes important to evaluate the maximum utility it can provide for the unique set of engineering challenges specific teams face. Yet another one of my friends who works on an extremely popular open source project modeled along the lines of an internal tool at a big company said to me:&lt;&#x2F;p&gt;&lt;blockquote&gt;When we open sourced [redacted] a few years ago, the questions in the mailing list were extremely intelligent and high quality. Now that [redacted] has gotten really popular, what we’re seeing is that the quality of questions is plummeting. We now have enterprises ask us if we can provide [redacted] as a SaaS service, since by their own admission their developers aren’t the hipster types who want to or will be able to run [redacted] themselves.&lt;&#x2F;blockquote&gt;&lt;p&gt;Context is key. A tool that worked swimmingly well at company X won’t necessarily work just as well at company Y. This is &lt;em&gt;especially &lt;&#x2F;em&gt;true when it comes to bringing big company tooling to the masses. The organization structure and culture, quality of developers and Operations engineers, tooling already in use, state of the codebase, appetite for risk all play a huge part into how successful a tool will prove to be if introduced.&lt;&#x2F;p&gt;&lt;h4&gt;One last thing&lt;&#x2F;h4&gt;&lt;p&gt;Observations can lead a developer to the answers, it can’t make them necessarily find it. The process of examining the evidence (observations) at hand and being able to deduce still requires a good understanding of the system, the domain as well as a good sense of intuition. No amount of “observability” or “monitoring” tooling can ever be a substitute to good engineering intuition and instincts.&lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="https://medium.com/@copyconstruct/monitoring-and-observability-8417d1952e1c?source=rss-87c8c84f24b1------2"/>
-    <pubDate>Tue Sep 05 2017 05:52:44 GMT+0100 (BST)</pubDate>
+    <published>2017-09-05T04:52:44.000Z</published>
   </entry>
   <entry>
     <title>How I Finally Fixed My Parents Dodgy Wifi With AmpliFi | Troy Hunt</title>
@@ -7086,7 +7086,7 @@ a computer, let me know!&lt;&#x2F;p&gt;</content>
 &lt;p&gt;Lastly, a determining factor is inevitably cost. I spent over A$2k setting my house up with UniFi. Admittedly, I did go a bit overboard but it was about the same for my brother&#39;s setup too. You can definitely get in much cheaper than that - less than half if you&#39;re frugal - but you can &lt;a href&#x3D;&quot;http:&#x2F;&#x2F;www.wireless4now.com.au&#x2F;ubiquiti-amplifi-high-density-hd-home-wi-fi-router.html&quot;&gt;get into AmpliFi for only a couple of hundred bucks&lt;&#x2F;a&gt;. That&#39;s just the base station that&#39;ll still give you all the features above but without the additional range from the mesh units, you&#39;re looking at &lt;a href&#x3D;&quot;http:&#x2F;&#x2F;www.wireless4now.com.au&#x2F;ubiquiti&#x2F;ubiquiti-amplifi&#x2F;ubiquiti-amplifi-afi-high-density-home-wi-fi-mesh-technology.html&quot;&gt;well over $500 for the setup I put into mum and dad&#39;s&lt;&#x2F;a&gt;. But for many people, that&#39;ll easily be worth it for the sanity and productivity of actually having reliable internet everywhere!&lt;&#x2F;p&gt;
 &lt;&#x2F;div&gt;</content>
     <link rel="alternate" href="http://feedproxy.google.com/~r/TroyHunt/~3/AVLepeXMlBo/"/>
-    <pubDate>Mon Sep 04 2017 09:13:41 GMT+0100 (BST)</pubDate>
+    <published>2017-09-04T08:13:41.000Z</published>
   </entry>
   <entry>
     <title>Debugging netlink requests | Julia Evans</title>
@@ -7304,7 +7304,7 @@ problems, strace it, learn things about netlink and what a &lt;code&gt;RTA_OIF&l
 the bugs, eventually it works”. Maybe that isn’t everyone’s experience but that
 is my experience so far!&lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="https://jvns.ca/blog/2017/09/03/debugging-netlink-requests/"/>
-    <pubDate>Sun Sep 03 2017 22:46:00 GMT+0100 (BST)</pubDate>
+    <published>2017-09-03T21:46:00.000Z</published>
   </entry>
   <entry>
     <title>What&amp;#39;s a network interface? | Julia Evans</title>
@@ -7501,7 +7501,7 @@ packet, then tcpdump gets the packet.&lt;&#x2F;p&gt;
 
 &lt;p&gt;Some of this is probably wrong, let me know what! I’m on Twitter as always (&lt;a href&#x3D;&quot;https:&#x2F;&#x2F;twitter.com&#x2F;b0rk&quot;&gt;https:&#x2F;&#x2F;twitter.com&#x2F;b0rk&lt;&#x2F;a&gt;)&lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="https://jvns.ca/blog/2017/09/03/network-interfaces/"/>
-    <pubDate>Sun Sep 03 2017 22:42:00 GMT+0100 (BST)</pubDate>
+    <published>2017-09-03T21:42:00.000Z</published>
   </entry>
   <entry>
     <title>Telling people what you&amp;#39;re working on | Julia Evans</title>
@@ -7643,19 +7643,19 @@ bikeshedding when talking about plans. I think where I work it’s better to tel
 people what I’m working on though! And lately when we share plans with
 people, almost all of the feedback I see is super helpful!&lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="https://jvns.ca/blog/2017/09/03/telling-people-what-you-re-working-on/"/>
-    <pubDate>Sun Sep 03 2017 20:08:54 GMT+0100 (BST)</pubDate>
+    <published>2017-09-03T19:08:54.000Z</published>
   </entry>
   <entry>
     <title>Flat UI Elements Attract Less Attention and Cause Uncertainty | Nielsen Norman Group</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;Summary:&lt;&#x2F;strong&gt; Flat interfaces often use weak signifiers. In an eyetracking experiment comparing different kinds of clickability clues, UIs with weak signifiers required more user effort than strong ones.&lt;&#x2F;p&gt;&lt;hr &#x2F;&gt;&lt;br &#x2F;&gt;&lt;p&gt; The popularity of &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;www.nngroup.com&#x2F;articles&#x2F;flat-design&#x2F;&quot;&gt;  flat design &lt;&#x2F;a&gt; in digital interfaces has coincided with a scarcity of &lt;a href&#x3D;&quot;http:&#x2F;&#x2F;jnd.org&#x2F;dn.mss&#x2F;signifiers_not_affordances.html&quot;&gt;  signifiers &lt;&#x2F;a&gt; . Many modern UIs have ripped out the perceptible cues that users rely on to understand what is clickable.&lt;&#x2F;p&gt;&lt;p&gt; Using eyetracking equipment to track and visualize users’ eye movements across interfaces, we investigated how &lt;strong&gt;  strong clickability signifiers &lt;&#x2F;strong&gt; (traditional clues such as underlined, blue text or a glossy 3D button) and &lt;strong&gt;  weak or absent signifiers &lt;&#x2F;strong&gt; (for example, linked text styled as static text or a ghost button) impact the ways users process and understand web pages.&lt;&#x2F;p&gt; About the Study&lt;p&gt; There are many factors that influence a user’s interaction with an interface. To directly investigate the differences between traditional, weak, and absent signifiers in the visual treatments of interactive elements, we needed to remove any confounding variables.&lt;&#x2F;p&gt;&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;&lt;a href&#x3D;&quot;&#x2F;articles&#x2F;flat-ui-less-attention-cause-uncertainty&#x2F;&quot;&gt;Read Full Article&lt;&#x2F;a&gt;</content>
     <link rel="alternate" href="https://www.nngroup.com/articles/flat-ui-less-attention-cause-uncertainty/"/>
-    <pubDate>Sun Sep 03 2017 17:00:01 GMT+0100 (BST)</pubDate>
+    <published>2017-09-03T16:00:01.000Z</published>
   </entry>
   <entry>
     <title>Counterfeit or Credible? UX Design for Authenticity in China | Nielsen Norman Group</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;Summary:&lt;&#x2F;strong&gt; In China, websites must work harder than in other markets to gain users’ trust. Displaying the company’s local presence, past client work, and being available to answer questions via online chat are critical.&lt;&#x2F;p&gt;&lt;hr &#x2F;&gt;&lt;br &#x2F;&gt;&lt;p&gt; Counterfeiting is not uncommon in China. Thus, a main concern for Chinese web shoppers is making sure that the products they see online are authentic. Some Chinese online marketplaces are assumed to contain fake products, and past negative experiences with these fakes — ink cartridges that don’t last or don’t quite print the correct color — cause consumers to be extra wary when shopping online.&lt;&#x2F;p&gt;&lt;p&gt; This guardedness is exacerbated by the restrictive Chinese return policies. It’s rare that sellers will take back a product with “no questions asked.” Chinese consumers who are displeased with a purchase will often choose to absorb the cost and treat it as a lesson rather than attempt a troublesome return process.&lt;&#x2F;p&gt;&lt;p&gt; Participants in our latest round of usability studies conducted in China displayed a heightened awareness of fakes, and were on the lookout for markers of authenticity and trustworthiness while researching various products and services.&lt;&#x2F;p&gt;&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;&lt;a href&#x3D;&quot;&#x2F;articles&#x2F;credibility-china&#x2F;&quot;&gt;Read Full Article&lt;&#x2F;a&gt;</content>
     <link rel="alternate" href="https://www.nngroup.com/articles/credibility-china/"/>
-    <pubDate>Sun Sep 03 2017 17:00:00 GMT+0100 (BST)</pubDate>
+    <published>2017-09-03T16:00:00.000Z</published>
   </entry>
   <entry>
     <title>GapP, Oracles, and Quantum Supremacy | Shtetl-Optimized</title>
@@ -7747,7 +7747,7 @@ BPP &#x3D; BQP&lt;&#x2F;p&gt;
 &lt;p&gt;So, OK, we then have a pretty good “mock oracle,” f, that we can substitute for the real oracle on the first query that Q makes.  Of course f and A won’t &lt;em&gt;perfectly&lt;&#x2F;em&gt; agree, but the small fraction of disagreements won’t matter much, again because of the linearity of quantum mechanics (i.e., the same thing that prevents us from speeding up Grover’s algorithm arbitrarily).  So we can basically simulate Q’s first query, and now our classical simulation is good to go until Q’s &lt;em&gt;second&lt;&#x2F;em&gt; query!  But now you can see where this is going: we iterate the same approach, and reuse the same assumptions ApproxSampBPP &#x3D; ApproxSampBQP and NP⊆BPP, to find a new “mock oracle” that lets us simulate Q’s second query, and so on until all of Q’s queries have been simulated.&lt;&#x2F;p&gt;
 &lt;p&gt;OK, I’ll stop there.  I don’t have a clever conclusion or anything.  Thank you.&lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="https://www.scottaaronson.com/blog/?p=3427"/>
-    <pubDate>Fri Sep 01 2017 14:47:12 GMT+0100 (BST)</pubDate>
+    <published>2017-09-01T13:47:12.000Z</published>
   </entry>
   <entry>
     <title>New Online Seminar: Working with Observers (Wednesday, November 8, 2017 4:00 PM ET&#x2F;1:00 PM PT) | Nielsen Norman Group</title>
@@ -7756,7 +7756,7 @@ BPP &#x3D; BQP&lt;&#x2F;p&gt;
 &lt;p&gt;This presentation looks at tips and tricks you can use to make your relationship with your observers as productive, efficient, and positive as possible. These apply whether your observers are in the room with you, in an observation room next door, or on the phone. &lt;&#x2F;p&gt;
 &lt;p&gt;&lt;&#x2F;p&gt;&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;&lt;a href&#x3D;&quot;&#x2F;online-seminars&#x2F;working-observers&#x2F;&quot;&gt;See Full Description and Pricing&lt;&#x2F;a&gt;</content>
     <link rel="alternate" href="https://www.nngroup.com/online-seminars/working-observers/"/>
-    <pubDate>Fri Sep 01 2017 14:45:00 GMT+0100 (BST)</pubDate>
+    <published>2017-09-01T13:45:00.000Z</published>
   </entry>
   <entry>
     <title>Weekly update 50 | Troy Hunt</title>
@@ -7773,13 +7773,13 @@ References
 &lt;&#x2F;ol&gt;
 &lt;&#x2F;div&gt;</content>
     <link rel="alternate" href="http://feedproxy.google.com/~r/TroyHunt/~3/v5ajZ18ZbOA/"/>
-    <pubDate>Fri Sep 01 2017 09:48:30 GMT+0100 (BST)</pubDate>
+    <published>2017-09-01T08:48:30.000Z</published>
   </entry>
   <entry>
     <title>Support This Site! | Ron Jeffries</title>
     <content type="html">If you value what I do, here are some ways you can support my work.</content>
     <link rel="alternate" href="http://ronjeffries.com/articles/017-08ff/support/"/>
-    <pubDate>Fri Sep 01 2017 05:00:00 GMT+0100 (BST)</pubDate>
+    <published>2017-09-01T04:00:00.000Z</published>
   </entry>
   <entry>
     <title>Reading List: Drug Lord | Fourmilog - Fourmilab Change Log</title>
@@ -7934,7 +7934,7 @@ for 2016, and this sequel is in the running for 2017.
 &lt;&#x2F;p&gt;
 </content>
     <link rel="alternate" href="http://www.fourmilab.ch/fourmilog/archives/2017-08/001708.html"/>
-    <pubDate>Thu Aug 31 2017 23:20:23 GMT+0100 (BST)</pubDate>
+    <published>2017-08-31T22:20:23.000Z</published>
   </entry>
   <entry>
     <title>The world in which IPv6 was a good design | apenwarr</title>
@@ -8417,7 +8417,7 @@ an outside attacker (which is all TCP would guarantee anyway).  If you&#39;re
 using an encrypted protocol (like QUIC), the handshake can also be protected
 by your session key.&lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="http://apenwarr.ca/log/?m=201708#10"/>
-    <pubDate>Thu Aug 31 2017 19:33:24 GMT+0100 (BST)</pubDate>
+    <published>2017-08-31T18:33:24.000Z</published>
   </entry>
   <entry>
     <title>A New bradfrost.com! | Brad Frost</title>
@@ -8439,7 +8439,7 @@ by your session key.&lt;&#x2F;p&gt;</content>
 &lt;p&gt;New design:&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="http://bradfrost.com/blog/post/a-new-bradfrost-com/"/>
-    <pubDate>Thu Aug 31 2017 18:49:12 GMT+0100 (BST)</pubDate>
+    <published>2017-08-31T17:49:12.000Z</published>
   </entry>
   <entry>
     <title>A Cat Is Not An iPhone | Brad Frost</title>
@@ -8449,14 +8449,14 @@ by your session key.&lt;&#x2F;p&gt;</content>
 &lt;p&gt;I’d add to the list of “stubborn, ignorant assholes” the unscrupulous people who stand to retain&#x2F;gain their power&#x2F;fortune based on undermining objective facts.&lt;&#x2F;p&gt;
 &lt;p&gt;Also, it feels weird linking to a Twitter thread, but I guess that’s life now.&lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="http://bradfrost.com/blog/link/a-cat-is-not-an-iphone/"/>
-    <pubDate>Thu Aug 31 2017 15:48:02 GMT+0100 (BST)</pubDate>
+    <published>2017-08-31T14:48:02.000Z</published>
   </entry>
   <entry>
     <title>3 Ways to Stop Designing for Addiction | Brad Frost</title>
     <content type="html">&lt;p&gt;There’s some really smart stuff in this post. Pamela recommends some actionable things we designers can do to better ensure our creations don’t harm people. Ultimately this comes down to actively thinking about this stuff, so seeing articles like this address the problem is important.&lt;&#x2F;p&gt;
 &lt;p&gt;I’ve been struggling with a lot of the addictive aspects of technology (see &lt;a href&#x3D;&quot;http:&#x2F;&#x2F;bradfrost.com&#x2F;blog&#x2F;link&#x2F;what-is-technology-doing-to-us&#x2F;&quot;&gt;this link&lt;&#x2F;a&gt; for more great thoughts on this), and have been taking steps to make my own social media world a bit &lt;a href&#x3D;&quot;https:&#x2F;&#x2F;calmtech.com&#x2F;&quot;&gt;calmer&lt;&#x2F;a&gt;. I uninstalled Facebook on my phone, and have been grooming Twitter in an attempt to reclaim it as a tool that helps me in my professional life, but doesn’t &lt;a href&#x3D;&quot;http:&#x2F;&#x2F;bradfrost.com&#x2F;blog&#x2F;post&#x2F;dont-shit-where-you-eat&#x2F;&quot;&gt;drown me in everything all the time&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="http://bradfrost.com/blog/link/3-ways-to-stop-designing-for-addiction/"/>
-    <pubDate>Wed Aug 30 2017 17:40:38 GMT+0100 (BST)</pubDate>
+    <published>2017-08-30T16:40:38.000Z</published>
   </entry>
   <entry>
     <title>Why I&#39;m ditching Clojure for JavaScript | Steven Degutis</title>
@@ -8464,7 +8464,7 @@ by your session key.&lt;&#x2F;p&gt;</content>
 web app I wrote from scratch. For a while I agreed with Bob that the language of
 the future is probably going to be som...</content>
     <link rel="alternate" href="https://sdegutis.com/blog/2017-08-30-why-im-ditching-clojure-for-javascript"/>
-    <pubDate>Wed Aug 30 2017 01:00:00 GMT+0100 (BST)</pubDate>
+    <published>2017-08-30T00:00:00.000Z</published>
   </entry>
   <entry>
     <title>Inside the Massive 711 Million Record Onliner Spambot Dump | Troy Hunt</title>
@@ -8523,13 +8523,13 @@ the future is probably going to be som...</content>
 &lt;p&gt;None of this is hard, it requires just a little bit of effort and makes a fundamental difference to your security profile.&lt;&#x2F;p&gt;
 &lt;&#x2F;div&gt;</content>
     <link rel="alternate" href="http://feedproxy.google.com/~r/TroyHunt/~3/trlyP1Wux7g/"/>
-    <pubDate>Tue Aug 29 2017 20:31:34 GMT+0100 (BST)</pubDate>
+    <published>2017-08-29T19:31:34.000Z</published>
   </entry>
   <entry>
     <title>The Why and How of Google AMP at Condé Nast | Condé Nast Technology</title>
     <content type="html">Google AMP aims to provide a better experience for the mobile web. Let’s explore the motivations, technology, and outcomes of the AMP implementation at Condé Nast.</content>
     <link rel="alternate" href="https://technology.condenast.com/story/the-why-and-how-of-google-amp-at-conde-nast"/>
-    <pubDate>Tue Aug 29 2017 15:49:48 GMT+0100 (BST)</pubDate>
+    <published>2017-08-29T14:49:48.000Z</published>
   </entry>
   <entry>
     <title>Flash, Bang! | Fourmilog - Fourmilab Change Log</title>
@@ -8584,7 +8584,7 @@ You can see the smoke staining the plastic of the connector. There are also smok
 
 I&#39;d like to say that everything has been resolved and all is well, but it&#39;s not. There&#39;s a lot more time to be consumed in remediation of this event. What can you do to keep this from happening to you? &lt;em&gt;Don&#39;t get struck by lightning!&lt;&#x2F;em&gt;  Other than moving to somewhere the risk is lower, there&#39;s little more that can be done.&lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="http://www.fourmilab.ch/fourmilog/archives/2017-08/001707.html"/>
-    <pubDate>Tue Aug 29 2017 14:53:51 GMT+0100 (BST)</pubDate>
+    <published>2017-08-29T13:53:51.000Z</published>
   </entry>
   <entry>
     <title>How JSON decoding works in Elm—Part 3 | 8th Light Blog</title>
@@ -8912,12 +8912,12 @@ its thoughtful design encourages clean code.
 Hopefully these posts helped you develop both
 an intuition for the &lt;em&gt;how&lt;&#x2F;em&gt; behind &lt;code&gt;Json.Decode&lt;&#x2F;code&gt; and an appreciation for the &lt;em&gt;why&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;</content>
     <link rel="alternate" href="https://8thlight.com/blog/kofi-gumbs/2017/08/29/elm-json-decoding-custom.html"/>
-    <pubDate>Tue Aug 29 2017 06:00:00 GMT+0100 (BST)</pubDate>
+    <published>2017-08-29T05:00:00.000Z</published>
   </entry>
   <entry>
     <title>iPad - Moving to Dropbox for Some Reason | Ron Jeffries</title>
     <content type="html">Chet has me nearly convinced to move my site base to Dropbox. Today we&#39;ll talk further about that and about moving the product forward.</content>
     <link rel="alternate" href="http://ronjeffries.com/articles/017-08ff/ipad-k-db/"/>
-    <pubDate>Tue Aug 29 2017 05:00:00 GMT+0100 (BST)</pubDate>
+    <published>2017-08-29T04:00:00.000Z</published>
   </entry>
 </feed>
