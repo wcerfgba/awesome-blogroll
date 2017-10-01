@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<rss version="2.0">
+  <channel>
+    <title>awesome-blogroll</title>
+    <description>An awesome list and aggregate feed of blogs from some of the best people, companies and communities in the software engineering industry.</description>
+    <link>https://wcerfgba.github.io/awesome-blogroll</link>
+    <generator>Syzygys</generator>
+    {{#feedItems}}
+    <item>
+      <title>{{title}} | {{feed.name}}</title>
+      <description>{{{summary}}}</description>
+      <link>{{{url}}}</link>
+      <pubDate>{{date}}</pubDate>
+    </item>
+    {{/feedItems}}
+  </channel>
+</rss>

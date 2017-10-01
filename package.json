@@ -1,0 +1,15 @@
+{
+  "name": "awesome-blogroll",
+  "version": "1.0.0",
+  "description": "A feed aggregated from many awesome people and places",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": "https://github.com/wcerfgba/awesome-blogroll",
+  "author": "John L. Preston",
+  "license": "MIT",
+  "dependencies": {
+    "syzygys": "0.0.8"
+  }
+}
