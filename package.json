@@ -4,12 +4,14 @@
   "description": "A feed aggregated from many awesome people and places",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "aggregate": "node aggregate.js"
   },
   "repository": "https://github.com/wcerfgba/awesome-blogroll",
   "author": "John L. Preston",
   "license": "MIT",
   "dependencies": {
+    "express": "^4.16.1",
     "syzygys": "0.0.9"
   },
   "engines": {
