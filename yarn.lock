@@ -165,9 +165,9 @@ string_decoder@~1.0.3:
   dependencies:
     safe-buffer "~5.1.0"
 
-syzygys@0.0.5:
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/syzygys/-/syzygys-0.0.5.tgz#2e06bb29e4c706eb13fe8b96c98f53c21faac5af"
+syzygys@0.0.8:
+  version "0.0.8"
+  resolved "https://registry.yarnpkg.com/syzygys/-/syzygys-0.0.8.tgz#13db3c12ba719a328b8896898169a36ebd2004a3"
   dependencies:
     bluebird "^3.5.0"
     feedparser "^2.2.1"
