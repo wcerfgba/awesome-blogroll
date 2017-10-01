@@ -1,7 +1,7 @@
 {
   "name": "awesome-blogroll",
   "version": "1.0.0",
-  "description": "A feed aggregated from many awesome people and places",
+  "description": "An awesome list and aggregate feed of blogs from some of the best people, companies and communities in software",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
